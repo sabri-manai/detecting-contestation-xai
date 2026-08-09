@@ -1,0 +1,11 @@
+name,source_type,rows,columns,duplicate_rows,fully_empty_rows
+CODEBOOK.csv,top_level_csv,82,2,0,0
+MAXQDA_SUMMARY.csv,top_level_csv,2886,12,0,0
+PROBLEMS.csv,top_level_csv,3,23,0,0
+PROBLEMS_RESPONSES.csv,top_level_csv,78,6,0,0
+PROBLEMS_en.csv,top_level_csv,3,23,0,0
+QUESTIONS.csv,top_level_csv,19,4,0,0
+SLIDES.csv,top_level_csv,16,4,0,0
+SURVEY.csv,top_level_csv,154,23,0,0
+SURVEY_en.csv,top_level_csv,154,23,0,0
+VISUALIZATION_MODIFICATIONS.csv,top_level_csv,381,7,0,0

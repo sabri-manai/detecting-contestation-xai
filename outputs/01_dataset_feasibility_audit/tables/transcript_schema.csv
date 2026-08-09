@@ -1,0 +1,12 @@
+column,dtype,non_null_count,missing_count,unique_values,missing_percent
+__source_file,object,14835,0,38,0.0
+__transcript_id,object,14835,0,38,0.0
+__source_prefix,object,14835,0,5,0.0
+__participant_group,object,14835,0,3,0.0
+__case_number,int64,14835,0,12,0.0
+__row_in_file,int64,14835,0,1332,0.0
+speaker_id,object,14835,0,44,0.0
+slide_id,object,1117,13718,18,92.47
+question_id,object,558,14277,17,96.24
+problem_id,object,78,14757,3,99.47
+text,object,14834,1,13861,0.01

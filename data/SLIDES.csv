@@ -1,0 +1,17 @@
+slide_id,maxqda_theme,slide_name,comment
+__S1__,text slides,text1,introductory slide explaining the main objective of the study
+__S2__,text slides,text2,introductory slide describing the origin of the dataset used for training ML model
+__S3__,text slides,text3,introductory slide describing briefly the content of the dataset used for training ML model
+__S4__,distribution of features,bar charts1,bar plots depicting feature values counts in the dataset used for training the ML model
+__S5__,distribution of features,bar charts2,bar plots depicting feature values counts in the dataset used for training the ML model
+__S6__,descriptive statistics,descriptive statistics,Textual (statistical) summary of features in the dataset
+__S7__,bee swarm,bee swarm,Beeswarm plot from SHAP
+__S8__,waterfall,waterfall,Waterfall plot from SHAP
+__S9__,LIME,LIME,Barplot from LIME
+__S10__,counterfactual analysis,counterfactual analysis,Example and its counterfactual explanation obtained with DICE
+__S11__,text slides,text4,Slide that provides description of the ML model used to generate predictions
+__S11__,histograms,histograms and box plots,histograms and boxplots were split in thematic analysis into two themes. Both represent the distribution of avlues for two features in the dataset
+__S12__,box plots,histograms and box plots,histograms and boxplots were split in thematic analysis into two themes. Both represent the distribution of avlues for two features in the dataset
+__S13__,anchor,anchor1,Explanation for a given mushrom classified by the model as eadible obtained with Anchor explainer
+__S14__,anchor,anchor2,Explanation for a given mushrom classified by the model as non-eadible obtained with Anchor explainer
+__S15__,,black slide,Slide representing the en of the first part of the study

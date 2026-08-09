@@ -1,0 +1,2887 @@
+code,descriptive statistics,counterfactual analysis,anchor,LIME,waterfall,bee swarm,text slides,box plots,histograms,distribution of features,participant_id
+expectations,0,0,0,0,1,1,0,0,0,0,DR_SSH_01
+trust,0,0,0,0,2,1,0,0,0,0,DR_SSH_01
+barriers,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+methods of analysis,0,0,0,0,0,0,0,0,0,1,DR_SSH_01
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+methods of analysis > difficulties,1,3,1,0,0,0,0,2,2,1,DR_SSH_01
+methods of analysis > discrepancies,0,1,1,1,0,0,0,0,0,0,DR_SSH_01
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,2,DR_SSH_01
+methods of analysis > reflection time,1,1,0,1,0,0,0,1,1,3,DR_SSH_01
+methods of analysis > variability of decisions or evaluations,0,1,0,0,0,0,0,0,0,1,DR_SSH_01
+personification,0,1,0,0,0,0,0,0,0,0,DR_SSH_01
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+associations,0,1,0,1,0,0,0,0,0,1,DR_SSH_01
+associations > image of a toadstool,0,0,0,0,1,0,0,0,0,0,DR_SSH_01
+negative reception,1,1,0,0,0,0,0,0,0,0,DR_SSH_01
+positive reception,0,0,0,0,0,0,1,0,0,0,DR_SSH_01
+aesthetics,1,1,0,0,0,0,0,0,0,0,DR_SSH_01
+aesthetics > font size,0,0,0,0,0,0,1,0,0,0,DR_SSH_01
+aesthetics > layout,1,0,0,0,0,0,0,0,0,0,DR_SSH_01
+aesthetics > colour scheme,0,1,0,1,1,0,1,0,0,0,DR_SSH_01
+affects,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > overwhelming > uncertainty,1,1,1,1,0,0,1,1,1,1,DR_SSH_01
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > anchor,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > lime,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+slides > box plots,0,0,0,0,0,0,0,0,1,0,DR_SSH_01
+slides > histograms,0,0,0,0,0,0,0,1,0,0,DR_SSH_01
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+knowledge and experience > knowledge and experience in fungi,0,1,0,3,1,0,1,0,0,0,DR_SSH_01
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,1,0,0,0,0,0,0,DR_SSH_01
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+knowledge and experience > knowledge and experience in analysing human behaviour,0,1,0,1,0,0,0,0,0,0,DR_SSH_01
+recommendations,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > credibility,0,0,0,0,2,1,1,0,0,0,DR_SSH_01
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > precision,0,0,0,0,1,1,1,0,0,0,DR_SSH_01
+evaluation criteria > similarity,0,0,2,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > appropriateness,0,1,0,2,1,0,0,0,0,0,DR_SSH_01
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > comprehensibility,0,1,3,1,2,2,1,1,1,1,DR_SSH_01
+evaluation criteria > unreadability,1,4,0,0,0,0,0,1,1,1,DR_SSH_01
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > accuracy,0,0,0,1,0,0,0,0,0,0,DR_SSH_01
+evaluation criteria > uselessness,0,1,0,0,0,0,0,0,0,0,DR_SSH_01
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+data and features > lack of significant features,0,0,0,1,0,0,0,0,0,0,DR_SSH_01
+data and features > feature significance,0,1,4,3,2,1,0,0,0,0,DR_SSH_01
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+data and features > understanding of annotations,0,2,0,0,1,1,0,2,2,1,DR_SSH_01
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,DR_SSH_01
+data and features > legend,0,1,0,0,0,0,0,1,1,0,DR_SSH_01
+data and features > coordinate axes,0,0,0,0,0,0,0,1,1,0,DR_SSH_01
+expectations,0,0,1,1,0,1,0,0,0,0,DR_SSH_02
+trust,0,1,0,1,1,0,1,0,0,0,DR_SSH_02
+barriers,0,0,0,0,0,0,0,1,1,1,DR_SSH_02
+barriers > concerns,0,3,1,0,0,0,0,0,0,0,DR_SSH_02
+methods of analysis,1,0,0,0,0,0,0,0,0,0,DR_SSH_02
+methods of analysis > example analysis,0,0,1,7,2,2,0,0,0,2,DR_SSH_02
+methods of analysis > difficulties,0,0,0,0,3,1,0,1,1,1,DR_SSH_02
+methods of analysis > discrepancies,0,1,2,0,3,0,0,0,0,0,DR_SSH_02
+methods of analysis > thoroughness,0,0,0,0,3,0,0,0,0,2,DR_SSH_02
+methods of analysis > reflection time,0,1,0,0,1,0,0,0,0,0,DR_SSH_02
+methods of analysis > variability of decisions or evaluations,0,0,1,0,1,1,0,0,0,0,DR_SSH_02
+personification,0,2,0,0,0,0,0,0,0,0,DR_SSH_02
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+associations,3,4,1,5,6,4,1,0,0,4,DR_SSH_02
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+negative reception,1,3,0,0,2,2,1,2,2,4,DR_SSH_02
+positive reception,0,1,0,3,2,0,3,0,0,0,DR_SSH_02
+aesthetics,0,0,0,0,1,0,2,0,0,0,DR_SSH_02
+aesthetics > font size,0,0,0,0,0,0,1,0,0,1,DR_SSH_02
+aesthetics > layout,0,0,0,0,0,3,0,0,0,2,DR_SSH_02
+aesthetics > colour scheme,0,0,2,0,1,0,0,2,2,4,DR_SSH_02
+affects,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+affects > nervousness,0,0,0,0,0,0,1,0,0,0,DR_SSH_02
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+affects > overwhelming,0,0,0,0,0,1,0,0,0,0,DR_SSH_02
+affects > overwhelming > uncertainty,2,0,1,1,1,1,0,1,2,1,DR_SSH_02
+affects > overwhelming > confusion,0,0,0,1,0,1,0,0,0,2,DR_SSH_02
+affects > overwhelming > tiredness,0,0,0,1,0,0,0,0,0,0,DR_SSH_02
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,1,DR_SSH_02
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > anchor,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > lime,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+slides > box plots,0,0,0,0,0,0,0,0,3,0,DR_SSH_02
+slides > histograms,0,0,0,0,0,0,0,3,0,0,DR_SSH_02
+slides > distribution of features,1,0,0,0,0,0,0,0,0,0,DR_SSH_02
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+knowledge and experience > knowledge and experience in fungi,0,0,0,0,0,1,0,0,0,0,DR_SSH_02
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,1,0,0,0,0,0,4,DR_SSH_02
+recommendations,1,0,0,0,2,1,4,0,1,7,DR_SSH_02
+recommendations > change of visualisation scheme,1,0,0,0,3,1,2,2,2,9,DR_SSH_02
+recommendations > supplementary materials,2,0,0,0,1,0,0,0,0,1,DR_SSH_02
+recommendations > graphics,1,0,0,0,0,0,0,0,0,1,DR_SSH_02
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+evaluation criteria > credibility,0,2,1,0,2,0,1,0,0,0,DR_SSH_02
+evaluation criteria > efficiency,0,1,0,6,3,0,0,0,0,0,DR_SSH_02
+evaluation criteria > precision,0,1,0,0,3,0,1,0,0,0,DR_SSH_02
+evaluation criteria > similarity,0,0,0,2,2,0,0,0,0,0,DR_SSH_02
+evaluation criteria > appropriateness,0,2,1,0,1,0,1,0,0,0,DR_SSH_02
+evaluation criteria > representativeness,0,1,0,0,0,1,0,0,0,0,DR_SSH_02
+evaluation criteria > comprehensibility,1,1,1,7,5,1,2,0,0,6,DR_SSH_02
+evaluation criteria > unreadability,3,0,2,1,6,4,0,2,5,7,DR_SSH_02
+evaluation criteria > importance,0,0,0,3,0,0,1,0,0,0,DR_SSH_02
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+evaluation criteria > uselessness,1,1,1,0,2,1,0,1,1,2,DR_SSH_02
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+data and features > lack of significant features,0,0,1,0,0,0,0,0,0,0,DR_SSH_02
+data and features > feature significance,0,0,4,3,5,2,0,0,0,0,DR_SSH_02
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,DR_SSH_02
+data and features > understanding of annotations,1,0,3,4,3,4,0,0,1,3,DR_SSH_02
+data and features > understanding of data gaps,1,0,2,0,0,1,0,0,0,6,DR_SSH_02
+data and features > legend,2,0,0,1,0,0,0,0,0,1,DR_SSH_02
+data and features > coordinate axes,0,0,0,3,5,0,0,2,3,11,DR_SSH_02
+expectations,1,0,0,0,1,0,0,0,0,0,DR_SSH_03
+trust,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+barriers,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+methods of analysis,1,2,1,1,1,3,2,1,1,1,DR_SSH_03
+methods of analysis > example analysis,0,0,0,4,0,1,0,0,0,0,DR_SSH_03
+methods of analysis > difficulties,0,1,1,0,0,1,0,0,0,0,DR_SSH_03
+methods of analysis > discrepancies,0,1,1,0,0,1,0,0,0,0,DR_SSH_03
+methods of analysis > thoroughness,0,0,1,3,0,0,0,0,0,1,DR_SSH_03
+methods of analysis > reflection time,0,2,0,1,1,0,0,1,1,0,DR_SSH_03
+methods of analysis > variability of decisions or evaluations,1,0,0,0,0,0,0,0,0,1,DR_SSH_03
+personification,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+associations,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+negative reception,0,1,0,0,0,0,0,0,0,0,DR_SSH_03
+positive reception,0,1,0,0,0,0,1,0,0,0,DR_SSH_03
+aesthetics,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+aesthetics > colour scheme,0,0,2,0,0,0,0,0,0,0,DR_SSH_03
+affects,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+affects > nervousness,0,0,0,0,1,0,0,0,0,0,DR_SSH_03
+affects > interest,0,0,1,1,0,0,0,0,0,0,DR_SSH_03
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+affects > overwhelming > uncertainty,1,1,1,3,4,1,0,4,4,0,DR_SSH_03
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,1,DR_SSH_03
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > anchor,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > lime,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+slides > box plots,0,0,0,0,0,0,0,0,5,0,DR_SSH_03
+slides > histograms,0,0,0,0,0,0,0,5,0,0,DR_SSH_03
+slides > distribution of features,1,0,0,0,0,0,0,0,0,0,DR_SSH_03
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+knowledge and experience > knowledge and experience in fungi,1,2,0,2,3,0,0,0,0,0,DR_SSH_03
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+recommendations,2,0,1,0,0,0,0,2,3,2,DR_SSH_03
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+recommendations > supplementary materials,0,0,0,0,0,1,0,0,2,0,DR_SSH_03
+recommendations > graphics,1,0,0,0,0,0,0,0,0,0,DR_SSH_03
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+evaluation criteria > credibility,1,0,0,0,0,0,3,0,0,0,DR_SSH_03
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+evaluation criteria > precision,2,0,0,0,0,0,4,0,0,0,DR_SSH_03
+evaluation criteria > similarity,0,0,4,0,0,0,0,0,0,1,DR_SSH_03
+evaluation criteria > appropriateness,0,1,0,1,1,0,0,0,0,0,DR_SSH_03
+evaluation criteria > representativeness,0,1,0,0,1,0,1,0,0,0,DR_SSH_03
+evaluation criteria > comprehensibility,0,0,2,0,0,0,2,0,0,1,DR_SSH_03
+evaluation criteria > unreadability,0,0,1,0,0,0,0,0,0,0,DR_SSH_03
+evaluation criteria > importance,0,0,0,1,0,0,0,0,0,0,DR_SSH_03
+evaluation criteria > accuracy,0,1,0,1,1,0,0,0,0,0,DR_SSH_03
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,DR_SSH_03
+data and features > feature significance,0,1,4,2,6,4,0,0,0,2,DR_SSH_03
+data and features > lack of appropriate data,0,0,1,0,0,0,0,0,0,0,DR_SSH_03
+data and features > understanding of annotations,1,0,4,1,2,4,0,4,4,7,DR_SSH_03
+data and features > understanding of data gaps,5,0,4,0,0,0,0,0,0,3,DR_SSH_03
+data and features > legend,0,0,2,0,0,0,0,0,1,0,DR_SSH_03
+data and features > coordinate axes,0,0,0,0,0,0,0,5,6,1,DR_SSH_03
+expectations,0,0,0,1,0,2,0,0,0,0,DR_SSH_04
+trust,0,1,0,1,1,1,0,0,0,0,DR_SSH_04
+barriers,0,0,0,0,0,2,0,0,0,0,DR_SSH_04
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+methods of analysis,0,1,2,1,0,1,0,0,0,0,DR_SSH_04
+methods of analysis > example analysis,0,0,0,2,0,0,0,0,0,0,DR_SSH_04
+methods of analysis > difficulties,3,2,0,1,1,2,0,1,1,0,DR_SSH_04
+methods of analysis > discrepancies,1,0,0,0,0,0,0,0,0,0,DR_SSH_04
+methods of analysis > thoroughness,2,1,2,0,0,1,0,0,0,1,DR_SSH_04
+methods of analysis > reflection time,1,0,1,0,1,0,0,0,0,1,DR_SSH_04
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+personification,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+associations,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+associations > image of a toadstool,0,1,0,0,0,0,0,0,0,0,DR_SSH_04
+negative reception,1,0,1,1,0,1,0,1,1,2,DR_SSH_04
+positive reception,0,1,0,1,0,2,0,0,0,0,DR_SSH_04
+aesthetics,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects > nervousness,0,0,1,0,0,1,0,0,0,0,DR_SSH_04
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects > overwhelming > uncertainty,3,0,0,2,1,1,0,1,1,1,DR_SSH_04
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,1,DR_SSH_04
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+affects > surprise,0,0,0,0,0,1,0,0,0,0,DR_SSH_04
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > descriptive statistics,0,0,0,0,1,0,0,0,0,1,DR_SSH_04
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > anchor,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > lime,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > waterfall,1,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+slides > box plots,0,0,0,0,0,0,0,0,5,0,DR_SSH_04
+slides > histograms,0,0,0,0,0,0,0,5,0,0,DR_SSH_04
+slides > distribution of features,1,0,0,0,0,0,0,0,0,0,DR_SSH_04
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+knowledge and experience > knowledge and experience in fungi,1,2,0,3,1,1,0,0,0,1,DR_SSH_04
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,2,0,0,0,0,0,0,0,0,DR_SSH_04
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+recommendations,0,1,1,0,0,0,0,2,2,1,DR_SSH_04
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+recommendations > supplementary materials,0,0,2,0,0,0,0,4,4,1,DR_SSH_04
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+evaluation criteria > credibility,0,0,0,0,0,1,0,0,0,0,DR_SSH_04
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+evaluation criteria > precision,1,0,1,0,0,0,2,0,0,2,DR_SSH_04
+evaluation criteria > similarity,3,0,0,0,1,0,0,0,0,1,DR_SSH_04
+evaluation criteria > appropriateness,0,1,2,1,0,1,0,0,0,0,DR_SSH_04
+evaluation criteria > representativeness,0,1,0,0,0,1,1,0,0,0,DR_SSH_04
+evaluation criteria > comprehensibility,0,0,1,0,0,1,0,0,0,0,DR_SSH_04
+evaluation criteria > unreadability,2,6,0,2,1,4,0,2,2,5,DR_SSH_04
+evaluation criteria > importance,0,1,0,1,1,0,0,0,0,0,DR_SSH_04
+evaluation criteria > accuracy,0,1,0,0,0,0,0,0,0,0,DR_SSH_04
+evaluation criteria > uselessness,2,1,0,0,0,0,0,2,2,0,DR_SSH_04
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_04
+data and features > lack of significant features,0,0,0,0,0,1,0,0,0,0,DR_SSH_04
+data and features > feature significance,1,0,2,1,2,1,0,0,0,1,DR_SSH_04
+data and features > lack of appropriate data,0,1,0,0,0,0,0,1,1,0,DR_SSH_04
+data and features > understanding of annotations,3,2,0,2,2,1,0,1,1,7,DR_SSH_04
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,3,DR_SSH_04
+data and features > legend,0,0,0,0,1,2,0,4,4,2,DR_SSH_04
+data and features > coordinate axes,0,1,0,0,0,0,0,4,4,5,DR_SSH_04
+expectations,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+trust,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+barriers,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+methods of analysis,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+methods of analysis > example analysis,0,0,3,3,1,2,0,0,0,0,DR_IT_05
+methods of analysis > difficulties,0,0,0,0,0,1,0,0,0,0,DR_IT_05
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+methods of analysis > reflection time,0,0,0,0,0,0,0,1,1,0,DR_IT_05
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+personification,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+associations,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+negative reception,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+positive reception,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+aesthetics,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+slides,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+slides > anchor,0,0,0,3,1,2,0,0,0,0,DR_IT_05
+slides > lime,0,0,3,0,1,2,0,0,0,0,DR_IT_05
+slides > waterfall,0,0,1,1,0,1,0,0,0,0,DR_IT_05
+slides > bee swarm,0,0,2,2,1,0,0,0,0,0,DR_IT_05
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+slides > box plots,0,0,0,0,0,0,0,0,1,0,DR_IT_05
+slides > histograms,0,0,0,0,0,0,0,1,0,0,DR_IT_05
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+knowledge and experience > knowledge and experience in fungi,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+recommendations,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+recommendations > supplementary materials,0,0,0,0,1,0,0,0,0,0,DR_IT_05
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > efficiency,0,0,1,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > appropriateness,0,0,3,3,1,2,0,1,0,0,DR_IT_05
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > comprehensibility,0,1,1,0,0,1,0,1,1,0,DR_IT_05
+evaluation criteria > unreadability,0,0,0,0,0,0,0,1,1,0,DR_IT_05
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features > feature significance,0,0,1,0,0,0,0,1,1,0,DR_IT_05
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features > understanding of annotations,0,0,1,0,0,0,0,2,1,0,DR_IT_05
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features > legend,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,DR_IT_05
+expectations,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+trust,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+barriers,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis > example analysis,0,0,1,3,0,1,0,0,0,0,DR_SSH_06
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+personification,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+associations,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+negative reception,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+positive reception,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+aesthetics,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > reluctance,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides > anchor,0,0,0,1,0,0,0,0,0,0,DR_SSH_06
+slides > lime,0,0,1,0,0,1,0,0,0,0,DR_SSH_06
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides > bee swarm,0,0,0,1,0,0,0,0,0,0,DR_SSH_06
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+slides > box plots,0,0,0,0,0,0,0,0,2,1,DR_SSH_06
+slides > histograms,0,0,0,0,0,0,0,2,0,1,DR_SSH_06
+slides > distribution of features,0,0,0,0,0,0,0,1,1,0,DR_SSH_06
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+knowledge and experience > knowledge and experience in fungi,0,0,0,1,0,0,0,0,0,0,DR_SSH_06
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+recommendations,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > credibility,0,0,0,1,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > efficiency,0,0,0,1,0,1,0,0,0,0,DR_SSH_06
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > appropriateness,0,0,1,3,0,1,0,0,0,0,DR_SSH_06
+evaluation criteria > representativeness,0,0,1,1,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > comprehensibility,0,0,0,1,0,4,0,2,2,1,DR_SSH_06
+evaluation criteria > unreadability,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+evaluation criteria > accuracy,0,0,0,1,0,1,0,0,0,0,DR_SSH_06
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+data and features > feature significance,0,0,1,3,0,2,0,0,0,0,DR_SSH_06
+data and features > lack of appropriate data,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+data and features > understanding of annotations,0,0,0,0,0,0,0,1,1,0,DR_SSH_06
+data and features > understanding of data gaps,0,0,0,0,0,1,0,0,0,0,DR_SSH_06
+data and features > legend,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,DR_SSH_06
+expectations,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+trust,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+barriers,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis,1,0,0,0,1,1,0,2,1,0,DR_SSH_07
+methods of analysis > example analysis,0,0,2,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis > thoroughness,0,0,1,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+personification,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+metaphorization,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+associations,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+negative reception,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+positive reception,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+aesthetics,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > interest,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > overwhelming > uncertainty,0,1,0,0,0,0,0,1,0,0,DR_SSH_07
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+affects > surprise,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides > descriptive statistics,0,0,0,0,1,1,0,0,0,0,DR_SSH_07
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides > anchor,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides > lime,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides > waterfall,1,0,0,0,0,1,0,0,0,0,DR_SSH_07
+slides > bee swarm,1,0,0,0,1,0,0,0,0,0,DR_SSH_07
+slides > text slides,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+slides > box plots,0,0,0,0,0,0,0,0,3,0,DR_SSH_07
+slides > histograms,0,0,0,0,0,0,0,3,0,0,DR_SSH_07
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+knowledge and experience > knowledge and experience in fungi,0,0,1,0,0,0,0,1,1,0,DR_SSH_07
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,1,0,0,DR_SSH_07
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+recommendations,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+recommendations > change of visualisation scheme,1,1,0,0,1,1,1,1,1,0,DR_SSH_07
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > efficiency,0,0,1,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > precision,0,0,1,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > appropriateness,0,0,1,0,0,0,0,1,1,0,DR_SSH_07
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > comprehensibility,0,2,1,0,1,1,0,2,0,0,DR_SSH_07
+evaluation criteria > unreadability,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+evaluation criteria > accuracy,0,0,1,0,0,0,0,1,1,0,DR_SSH_07
+evaluation criteria > uselessness,0,1,0,0,0,0,0,1,1,0,DR_SSH_07
+data and features,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+data and features > feature significance,0,0,4,0,0,1,0,1,1,0,DR_SSH_07
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+data and features > understanding of annotations,1,0,1,0,0,1,0,1,0,0,DR_SSH_07
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+data and features > legend,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,DR_SSH_07
+expectations,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+trust,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+barriers,1,0,0,0,0,0,0,1,0,0,MK_SSH_02
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+methods of analysis,0,0,0,3,2,1,0,0,0,0,MK_SSH_02
+methods of analysis > example analysis,0,0,0,1,1,1,0,0,0,0,MK_SSH_02
+methods of analysis > difficulties,0,0,0,1,1,1,0,0,1,0,MK_SSH_02
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+methods of analysis > variability of decisions or evaluations,0,0,1,0,0,0,0,0,0,0,MK_SSH_02
+personification,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+associations,0,0,1,0,0,0,0,0,0,0,MK_SSH_02
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+negative reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+aesthetics,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > interest,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > reluctance,0,0,0,0,0,0,0,0,1,0,MK_SSH_02
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+slides > descriptive statistics,0,0,0,0,0,0,0,1,0,0,MK_SSH_02
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+slides > anchor,0,0,0,1,0,1,0,0,0,0,MK_SSH_02
+slides > lime,0,0,1,0,2,5,0,0,0,0,MK_SSH_02
+slides > waterfall,0,0,0,2,0,3,0,0,0,0,MK_SSH_02
+slides > bee swarm,0,0,1,5,3,0,0,0,0,0,MK_SSH_02
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+slides > box plots,1,0,0,0,0,0,0,0,2,0,MK_SSH_02
+slides > histograms,0,0,0,0,0,0,0,2,0,0,MK_SSH_02
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+knowledge and experience > knowledge and experience in fungi,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,1,0,0,MK_SSH_02
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+recommendations,1,0,0,1,0,1,1,2,3,0,MK_SSH_02
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,1,2,0,MK_SSH_02
+recommendations > supplementary materials,2,0,1,0,0,0,0,2,2,0,MK_SSH_02
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > credibility,0,0,1,0,0,0,0,0,0,1,MK_SSH_02
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,1,MK_SSH_02
+evaluation criteria > similarity,0,0,0,1,1,2,0,0,0,0,MK_SSH_02
+evaluation criteria > appropriateness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > comprehensibility,0,0,2,2,1,2,0,1,2,0,MK_SSH_02
+evaluation criteria > unreadability,0,0,1,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+evaluation criteria > accuracy,0,0,3,1,1,1,0,0,0,0,MK_SSH_02
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features > feature significance,0,0,4,5,4,2,0,0,1,2,MK_SSH_02
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features > understanding of annotations,0,0,1,0,0,0,0,0,2,0,MK_SSH_02
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features > legend,0,0,0,0,0,0,0,0,0,0,MK_SSH_02
+data and features > coordinate axes,0,0,0,0,0,0,0,0,1,0,MK_SSH_02
+expectations,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+trust,2,1,0,0,0,1,1,0,0,0,MK_IT_03
+barriers,0,0,0,0,0,1,0,0,0,0,MK_IT_03
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+methods of analysis,1,0,0,1,0,2,0,0,0,0,MK_IT_03
+methods of analysis > example analysis,1,0,0,1,0,2,0,0,0,0,MK_IT_03
+methods of analysis > difficulties,0,0,0,0,0,1,0,1,0,0,MK_IT_03
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+methods of analysis > thoroughness,2,0,0,0,0,1,0,0,0,0,MK_IT_03
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+methods of analysis > variability of decisions or evaluations,0,0,0,0,1,0,0,0,0,0,MK_IT_03
+personification,0,1,0,0,0,0,0,0,0,0,MK_IT_03
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+associations,1,0,0,0,0,0,0,1,1,0,MK_IT_03
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+negative reception,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+aesthetics,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > interest,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > overwhelming > uncertainty,0,0,0,0,0,2,0,1,1,0,MK_IT_03
+affects > overwhelming > confusion,0,0,0,1,0,0,0,0,0,0,MK_IT_03
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+affects > surprise,1,0,0,0,0,0,0,0,0,0,MK_IT_03
+slides,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+slides > descriptive statistics,0,0,0,0,0,2,0,0,0,0,MK_IT_03
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+slides > lime,0,0,0,0,1,1,0,0,0,0,MK_IT_03
+slides > waterfall,0,0,0,1,0,1,0,1,1,0,MK_IT_03
+slides > bee swarm,2,0,0,1,1,0,0,0,0,0,MK_IT_03
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+slides > box plots,0,0,0,0,1,0,0,0,3,0,MK_IT_03
+slides > histograms,0,0,0,0,1,0,0,3,0,0,MK_IT_03
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+knowledge and experience > knowledge and experience in fungi,0,0,0,1,0,0,0,0,0,1,MK_IT_03
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,1,0,0,MK_IT_03
+knowledge and experience > knowledge and experience in analysing human behaviour,1,0,0,0,0,1,0,0,0,0,MK_IT_03
+recommendations,0,0,1,1,2,1,0,0,0,0,MK_IT_03
+recommendations > change of visualisation scheme,0,0,0,1,2,2,0,1,1,0,MK_IT_03
+recommendations > supplementary materials,0,0,0,0,1,0,0,1,1,0,MK_IT_03
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+evaluation criteria > credibility,1,1,1,0,0,0,1,0,0,2,MK_IT_03
+evaluation criteria > efficiency,0,1,3,0,0,1,0,0,0,0,MK_IT_03
+evaluation criteria > precision,1,0,1,0,0,0,0,0,0,0,MK_IT_03
+evaluation criteria > similarity,0,0,0,0,0,2,0,0,0,0,MK_IT_03
+evaluation criteria > appropriateness,0,1,0,1,0,0,0,0,0,1,MK_IT_03
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+evaluation criteria > comprehensibility,4,0,4,2,2,10,0,2,2,2,MK_IT_03
+evaluation criteria > unreadability,0,0,0,1,0,0,0,0,1,0,MK_IT_03
+evaluation criteria > importance,1,1,0,1,0,1,0,0,0,1,MK_IT_03
+evaluation criteria > accuracy,1,0,0,0,0,3,1,0,0,0,MK_IT_03
+evaluation criteria > uselessness,0,0,0,0,0,1,0,0,0,0,MK_IT_03
+data and features,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+data and features > lack of significant features,0,1,0,0,0,1,0,0,0,0,MK_IT_03
+data and features > feature significance,2,2,5,3,2,7,0,0,0,3,MK_IT_03
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+data and features > understanding of annotations,1,0,0,2,0,3,0,1,1,0,MK_IT_03
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+data and features > legend,0,0,0,0,2,1,0,1,1,0,MK_IT_03
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MK_IT_03
+expectations,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+trust,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+barriers,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+methods of analysis,0,1,2,1,0,2,0,0,0,2,MK_SSH_04
+methods of analysis > example analysis,3,0,0,0,0,1,0,0,0,2,MK_SSH_04
+methods of analysis > difficulties,1,0,0,1,4,3,0,3,3,1,MK_SSH_04
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,1,0,MK_SSH_04
+methods of analysis > thoroughness,1,0,1,0,0,0,0,0,0,0,MK_SSH_04
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+personification,0,0,0,0,0,0,0,0,1,0,MK_SSH_04
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+associations,1,3,0,1,1,1,0,0,0,0,MK_SSH_04
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+negative reception,0,2,0,0,1,0,0,0,0,0,MK_SSH_04
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+aesthetics,2,1,0,0,0,1,0,0,0,2,MK_SSH_04
+aesthetics > font size,2,0,0,0,0,0,0,0,0,0,MK_SSH_04
+aesthetics > layout,0,0,1,1,0,0,0,0,0,0,MK_SSH_04
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+affects,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+affects > interest,0,0,0,0,0,1,0,0,0,0,MK_SSH_04
+affects > reluctance,0,3,0,0,0,1,1,0,0,0,MK_SSH_04
+affects > overwhelming,0,0,0,0,0,1,0,1,1,0,MK_SSH_04
+affects > overwhelming > uncertainty,1,0,5,0,0,1,0,1,1,0,MK_SSH_04
+affects > overwhelming > confusion,0,0,0,0,0,0,0,1,2,0,MK_SSH_04
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+slides > descriptive statistics,0,0,0,0,0,2,0,0,0,1,MK_SSH_04
+slides > counterfactual analysis,0,0,0,0,0,0,0,1,1,0,MK_SSH_04
+slides > anchor,0,0,0,1,0,0,0,0,0,0,MK_SSH_04
+slides > lime,0,0,1,0,0,0,0,0,0,1,MK_SSH_04
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+slides > bee swarm,2,0,0,0,0,0,0,0,0,1,MK_SSH_04
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+slides > box plots,0,1,0,0,0,0,0,0,2,0,MK_SSH_04
+slides > histograms,0,1,0,0,0,0,0,2,0,0,MK_SSH_04
+slides > distribution of features,1,0,0,1,0,1,0,0,0,0,MK_SSH_04
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+knowledge and experience > knowledge and experience in fungi,0,1,0,0,0,0,0,0,0,0,MK_SSH_04
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+knowledge and experience > knowledge and experience in visualizations and analysis,1,0,0,1,0,6,0,2,1,0,MK_SSH_04
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+recommendations,1,1,0,0,0,0,0,1,1,1,MK_SSH_04
+recommendations > change of visualisation scheme,0,0,0,0,0,0,1,0,0,0,MK_SSH_04
+recommendations > supplementary materials,1,0,0,0,0,0,0,1,1,0,MK_SSH_04
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,1,MK_SSH_04
+evaluation criteria > efficiency,0,0,1,1,0,1,0,0,0,1,MK_SSH_04
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,1,MK_SSH_04
+evaluation criteria > similarity,0,0,0,0,0,1,0,0,0,0,MK_SSH_04
+evaluation criteria > appropriateness,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria > comprehensibility,0,0,8,2,2,4,1,2,1,3,MK_SSH_04
+evaluation criteria > unreadability,1,1,0,0,2,6,1,5,6,1,MK_SSH_04
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+evaluation criteria > uselessness,0,0,1,2,0,0,0,1,0,0,MK_SSH_04
+data and features,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+data and features > feature significance,2,0,5,1,1,1,0,1,0,2,MK_SSH_04
+data and features > lack of appropriate data,0,0,0,0,1,0,0,0,0,0,MK_SSH_04
+data and features > understanding of annotations,1,0,3,3,2,2,0,1,0,2,MK_SSH_04
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+data and features > legend,0,1,0,1,0,1,0,2,2,4,MK_SSH_04
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MK_SSH_04
+expectations,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+trust,0,0,0,0,1,0,0,0,0,0,MK_SSH_05
+barriers,0,0,0,0,1,0,0,0,0,0,MK_SSH_05
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+methods of analysis,0,0,0,1,1,1,0,0,1,0,MK_SSH_05
+methods of analysis > example analysis,0,0,2,3,0,3,0,0,1,1,MK_SSH_05
+methods of analysis > difficulties,1,0,0,1,0,2,0,2,3,1,MK_SSH_05
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+methods of analysis > reflection time,0,0,0,0,1,0,0,0,0,0,MK_SSH_05
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+personification,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+associations,1,0,0,0,0,0,0,0,0,0,MK_SSH_05
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+negative reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+aesthetics,0,0,0,0,1,0,0,0,0,0,MK_SSH_05
+aesthetics > font size,0,0,0,0,0,2,0,0,0,1,MK_SSH_05
+aesthetics > layout,0,0,1,0,0,0,0,0,0,0,MK_SSH_05
+aesthetics > colour scheme,0,0,1,0,0,1,0,0,0,2,MK_SSH_05
+affects,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > interest,0,0,0,0,0,0,1,0,0,0,MK_SSH_05
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides > anchor,0,0,0,2,0,2,0,0,0,2,MK_SSH_05
+slides > lime,0,0,2,0,0,3,0,0,1,1,MK_SSH_05
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides > bee swarm,0,0,2,3,0,0,0,0,1,3,MK_SSH_05
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+slides > box plots,0,0,0,0,0,0,0,0,3,0,MK_SSH_05
+slides > histograms,0,0,0,1,0,1,0,3,0,0,MK_SSH_05
+slides > distribution of features,0,0,2,1,0,3,0,0,0,0,MK_SSH_05
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+knowledge and experience > knowledge and experience in fungi,0,0,0,1,0,1,0,0,1,0,MK_SSH_05
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+recommendations,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+recommendations > change of visualisation scheme,0,1,1,0,0,0,1,1,0,1,MK_SSH_05
+recommendations > supplementary materials,0,0,0,1,0,0,0,1,1,0,MK_SSH_05
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria > credibility,0,0,0,0,0,0,1,0,0,0,MK_SSH_05
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria > precision,0,0,0,0,1,0,1,0,0,0,MK_SSH_05
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria > appropriateness,0,0,2,2,0,2,0,0,0,1,MK_SSH_05
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria > comprehensibility,0,0,2,2,1,3,0,0,1,4,MK_SSH_05
+evaluation criteria > unreadability,0,0,0,0,0,0,0,1,1,0,MK_SSH_05
+evaluation criteria > importance,1,0,0,0,1,0,0,0,0,0,MK_SSH_05
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+evaluation criteria > uselessness,0,1,0,0,0,0,1,1,0,0,MK_SSH_05
+data and features,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+data and features > feature significance,0,0,2,4,1,4,0,0,1,2,MK_SSH_05
+data and features > lack of appropriate data,0,0,1,2,0,2,0,0,1,1,MK_SSH_05
+data and features > understanding of annotations,0,0,1,1,2,2,0,1,2,2,MK_SSH_05
+data and features > understanding of data gaps,1,0,0,0,0,0,0,0,0,0,MK_SSH_05
+data and features > legend,0,0,0,0,1,0,0,1,1,0,MK_SSH_05
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MK_SSH_05
+expectations,0,0,0,0,1,0,0,0,0,1,MK_IT_06
+trust,0,2,0,0,1,1,2,0,0,1,MK_IT_06
+barriers,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+methods of analysis,0,0,0,1,1,0,0,0,0,1,MK_IT_06
+methods of analysis > example analysis,0,0,1,1,0,0,0,0,0,0,MK_IT_06
+methods of analysis > difficulties,0,0,1,0,0,0,0,1,0,1,MK_IT_06
+methods of analysis > discrepancies,0,0,0,0,0,0,0,1,2,0,MK_IT_06
+methods of analysis > thoroughness,0,0,0,1,0,0,0,0,0,0,MK_IT_06
+methods of analysis > reflection time,1,0,0,0,0,0,0,0,0,0,MK_IT_06
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+personification,0,1,0,0,0,0,0,0,0,0,MK_IT_06
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+associations,0,0,0,0,0,1,0,0,0,0,MK_IT_06
+associations > image of a toadstool,0,0,0,1,0,0,0,0,0,0,MK_IT_06
+negative reception,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+aesthetics,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+aesthetics > font size,0,0,0,0,0,0,0,0,0,1,MK_IT_06
+aesthetics > layout,0,0,1,0,0,0,0,0,0,0,MK_IT_06
+aesthetics > colour scheme,0,0,0,0,1,1,0,0,0,2,MK_IT_06
+affects,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+affects > interest,0,0,0,1,0,0,0,0,0,1,MK_IT_06
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+affects > overwhelming,0,0,0,0,1,0,0,0,0,1,MK_IT_06
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+affects > overwhelming > confusion,1,0,1,0,0,0,0,0,0,0,MK_IT_06
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+affects > surprise,0,0,0,0,0,0,0,0,0,1,MK_IT_06
+slides,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+slides > anchor,0,0,0,1,0,0,0,0,0,1,MK_IT_06
+slides > lime,0,0,1,0,0,0,0,0,0,1,MK_IT_06
+slides > waterfall,0,0,0,0,0,0,0,0,0,1,MK_IT_06
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+slides > box plots,0,0,0,0,0,0,0,0,1,0,MK_IT_06
+slides > histograms,0,0,0,0,0,0,0,1,0,0,MK_IT_06
+slides > distribution of features,0,0,1,1,1,0,0,0,0,0,MK_IT_06
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+knowledge and experience > knowledge and experience in fungi,0,1,0,0,0,0,0,0,0,0,MK_IT_06
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,1,0,0,0,0,0,0,MK_IT_06
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,2,1,0,MK_IT_06
+knowledge and experience > knowledge and experience in analysing human behaviour,0,1,0,0,0,1,0,0,0,0,MK_IT_06
+recommendations,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+recommendations > supplementary materials,0,0,0,0,0,0,0,1,1,0,MK_IT_06
+recommendations > graphics,0,0,0,0,0,0,0,0,0,1,MK_IT_06
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+evaluation criteria > credibility,0,0,1,0,0,0,0,0,0,0,MK_IT_06
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+evaluation criteria > precision,0,0,0,0,0,0,0,1,0,1,MK_IT_06
+evaluation criteria > similarity,0,0,0,1,0,0,0,0,0,1,MK_IT_06
+evaluation criteria > appropriateness,0,0,2,2,0,0,1,0,0,0,MK_IT_06
+evaluation criteria > representativeness,0,0,0,1,0,0,0,0,0,0,MK_IT_06
+evaluation criteria > comprehensibility,1,0,3,1,2,0,0,1,1,2,MK_IT_06
+evaluation criteria > unreadability,1,0,2,0,1,0,0,1,1,1,MK_IT_06
+evaluation criteria > importance,0,0,0,0,1,1,1,0,0,1,MK_IT_06
+evaluation criteria > accuracy,0,1,0,0,2,1,0,0,0,1,MK_IT_06
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+data and features,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+data and features > feature significance,0,1,2,3,3,0,0,1,1,3,MK_IT_06
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+data and features > understanding of annotations,0,1,0,3,0,0,0,2,2,1,MK_IT_06
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+data and features > legend,0,0,0,0,0,1,0,0,0,0,MK_IT_06
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MK_IT_06
+expectations,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+trust,0,0,0,2,0,1,0,0,0,0,MK_SSH_07
+barriers,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+methods of analysis,0,1,0,2,1,3,0,0,0,0,MK_SSH_07
+methods of analysis > example analysis,0,1,0,5,3,4,0,0,0,0,MK_SSH_07
+methods of analysis > difficulties,1,0,0,0,0,1,0,0,0,0,MK_SSH_07
+methods of analysis > discrepancies,0,0,1,1,0,0,0,0,0,0,MK_SSH_07
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+personification,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+metaphorization,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+associations,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+associations > image of a toadstool,0,0,0,0,0,1,0,0,0,0,MK_SSH_07
+negative reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+positive reception,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+aesthetics,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+aesthetics > layout,0,1,0,0,0,0,0,1,0,0,MK_SSH_07
+aesthetics > colour scheme,0,0,1,1,1,0,0,0,0,2,MK_SSH_07
+affects,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > interest,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > overwhelming,0,0,0,0,0,0,1,0,0,0,MK_SSH_07
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+affects > surprise,0,0,0,0,0,0,1,0,0,0,MK_SSH_07
+slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+slides > counterfactual analysis,0,0,0,1,1,1,0,0,0,0,MK_SSH_07
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+slides > lime,0,1,0,0,3,2,0,0,0,0,MK_SSH_07
+slides > waterfall,0,1,0,3,0,2,0,0,0,1,MK_SSH_07
+slides > bee swarm,0,1,0,2,2,0,0,0,0,0,MK_SSH_07
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+slides > box plots,0,0,0,0,0,0,0,0,1,0,MK_SSH_07
+slides > histograms,0,0,0,0,0,0,0,1,0,0,MK_SSH_07
+slides > distribution of features,0,0,0,0,1,0,0,0,0,0,MK_SSH_07
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+knowledge and experience > knowledge and experience in fungi,0,1,0,1,0,0,1,0,0,0,MK_SSH_07
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,1,1,0,0,0,1,MK_SSH_07
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,0,0,1,2,0,0,0,MK_SSH_07
+recommendations,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,1,0,0,MK_SSH_07
+recommendations > supplementary materials,0,2,0,2,0,0,0,1,1,0,MK_SSH_07
+recommendations > graphics,0,0,0,0,0,0,0,0,0,1,MK_SSH_07
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > efficiency,0,0,3,0,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > precision,1,0,0,1,0,1,0,1,1,0,MK_SSH_07
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > appropriateness,0,1,1,2,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > comprehensibility,2,0,1,2,1,1,1,1,1,1,MK_SSH_07
+evaluation criteria > unreadability,1,0,0,1,1,0,0,1,1,0,MK_SSH_07
+evaluation criteria > importance,0,0,0,2,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > accuracy,0,1,1,1,0,0,0,0,0,0,MK_SSH_07
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+data and features,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+data and features > feature significance,0,1,2,4,2,2,0,0,0,2,MK_SSH_07
+data and features > lack of appropriate data,0,0,0,2,0,1,0,0,0,0,MK_SSH_07
+data and features > understanding of annotations,2,3,1,0,0,0,0,1,1,1,MK_SSH_07
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+data and features > legend,0,0,0,0,0,0,0,0,0,0,MK_SSH_07
+data and features > coordinate axes,0,0,0,0,0,0,0,1,0,0,MK_SSH_07
+expectations,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+trust,0,0,1,0,0,0,0,0,0,0,MW_SSH_01
+barriers,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+methods of analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+methods of analysis > example analysis,0,0,0,0,0,1,0,0,0,0,MW_SSH_01
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+methods of analysis > discrepancies,0,0,0,0,0,1,0,0,0,0,MW_SSH_01
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+personification,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+associations,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+negative reception,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+positive reception,1,0,1,0,0,0,0,0,0,0,MW_SSH_01
+aesthetics,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+aesthetics > layout,0,0,0,0,0,1,0,0,0,0,MW_SSH_01
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,1,0,MW_SSH_01
+affects,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > reluctance,0,0,0,0,0,0,0,1,1,0,MW_SSH_01
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > lime,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+slides > box plots,0,0,0,0,0,0,0,0,2,0,MW_SSH_01
+slides > histograms,0,0,0,0,0,0,0,2,0,0,MW_SSH_01
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+knowledge and experience > knowledge and experience in fungi,0,0,1,0,0,0,0,0,0,0,MW_SSH_01
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,0,0,0,0,0,0,0,MW_SSH_01
+recommendations,0,0,0,0,0,0,0,0,1,0,MW_SSH_01
+recommendations > change of visualisation scheme,1,0,0,0,0,0,0,0,0,0,MW_SSH_01
+recommendations > supplementary materials,0,0,1,0,0,1,0,0,0,0,MW_SSH_01
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > credibility,0,0,1,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > efficiency,0,0,1,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > appropriateness,0,0,0,0,0,1,0,1,1,0,MW_SSH_01
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > comprehensibility,2,0,1,0,0,2,0,2,1,0,MW_SSH_01
+evaluation criteria > unreadability,0,0,0,0,0,0,0,3,2,0,MW_SSH_01
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+evaluation criteria > uselessness,0,0,0,0,0,0,0,3,1,0,MW_SSH_01
+data and features,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+data and features > feature significance,1,0,1,0,0,1,0,1,1,0,MW_SSH_01
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+data and features > understanding of annotations,1,0,0,0,0,1,0,1,1,0,MW_SSH_01
+data and features > understanding of data gaps,0,0,0,0,0,1,0,0,0,0,MW_SSH_01
+data and features > legend,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MW_SSH_01
+expectations,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+trust,0,0,1,0,0,0,0,0,0,0,MW_IT_02
+barriers,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+methods of analysis,0,0,1,0,0,0,0,1,1,0,MW_IT_02
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+methods of analysis > difficulties,1,0,0,0,1,0,0,2,1,0,MW_IT_02
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+methods of analysis > thoroughness,0,0,0,1,1,0,0,0,0,0,MW_IT_02
+methods of analysis > reflection time,0,0,0,0,1,0,0,1,1,0,MW_IT_02
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+personification,0,0,1,0,0,0,0,0,0,0,MW_IT_02
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+associations,0,0,0,0,1,0,0,0,0,0,MW_IT_02
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+negative reception,1,0,0,0,0,0,0,1,0,0,MW_IT_02
+positive reception,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+aesthetics,1,0,0,0,0,0,0,0,0,0,MW_IT_02
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > overwhelming > confusion,0,0,0,0,0,0,0,1,0,0,MW_IT_02
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > lime,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+slides > box plots,0,0,0,0,0,0,0,0,1,0,MW_IT_02
+slides > histograms,0,0,0,0,0,0,0,1,0,0,MW_IT_02
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+knowledge and experience > knowledge and experience in fungi,0,0,0,1,1,0,0,0,0,0,MW_IT_02
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+knowledge and experience > knowledge and experience in visualizations and analysis,1,0,0,0,1,0,1,1,0,0,MW_IT_02
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,1,0,0,1,0,0,0,MW_IT_02
+recommendations,1,0,0,0,0,0,0,0,0,0,MW_IT_02
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > credibility,0,0,1,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > efficiency,0,0,3,2,1,0,0,0,0,0,MW_IT_02
+evaluation criteria > precision,0,0,0,0,0,0,0,1,0,0,MW_IT_02
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > appropriateness,0,0,1,2,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > comprehensibility,1,0,1,1,2,0,0,1,0,0,MW_IT_02
+evaluation criteria > unreadability,1,0,0,0,1,0,0,2,1,0,MW_IT_02
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > accuracy,0,0,0,1,0,0,0,0,0,0,MW_IT_02
+evaluation criteria > uselessness,0,0,0,0,0,0,1,0,0,0,MW_IT_02
+data and features,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+data and features > feature significance,0,0,3,1,0,0,0,0,0,0,MW_IT_02
+data and features > lack of appropriate data,1,0,0,0,0,0,0,1,1,0,MW_IT_02
+data and features > understanding of annotations,1,0,0,3,1,0,0,1,1,0,MW_IT_02
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+data and features > legend,0,0,0,0,1,0,0,0,0,0,MW_IT_02
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MW_IT_02
+expectations,1,0,0,0,0,0,0,0,0,0,MW_SSH_03
+trust,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+barriers,1,0,0,0,0,0,0,0,0,0,MW_SSH_03
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis > difficulties,1,0,0,0,1,0,0,0,0,0,MW_SSH_03
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+personification,0,1,0,0,0,0,0,0,0,0,MW_SSH_03
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+associations,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+negative reception,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+positive reception,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+aesthetics,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+aesthetics > colour scheme,0,0,1,1,0,0,0,1,1,1,MW_SSH_03
+affects,1,0,0,0,1,0,0,0,0,0,MW_SSH_03
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,1,0,MW_SSH_03
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+affects > surprise,1,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides > descriptive statistics,0,0,0,0,1,0,0,0,0,0,MW_SSH_03
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides > anchor,0,0,0,1,0,0,0,1,1,1,MW_SSH_03
+slides > lime,0,0,1,0,0,0,0,1,1,1,MW_SSH_03
+slides > waterfall,1,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+slides > box plots,0,0,1,1,0,0,0,0,1,1,MW_SSH_03
+slides > histograms,0,0,1,1,0,0,0,1,0,1,MW_SSH_03
+slides > distribution of features,0,0,1,1,0,0,0,1,1,0,MW_SSH_03
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+knowledge and experience > knowledge and experience in fungi,1,0,0,0,0,0,0,0,0,0,MW_SSH_03
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+recommendations,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > credibility,0,1,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > efficiency,0,1,1,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > precision,0,0,0,0,0,0,0,0,1,0,MW_SSH_03
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > appropriateness,0,0,1,0,1,1,0,0,1,0,MW_SSH_03
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,1,0,MW_SSH_03
+evaluation criteria > comprehensibility,1,0,2,1,1,1,0,2,2,1,MW_SSH_03
+evaluation criteria > unreadability,0,0,1,1,0,0,0,1,1,1,MW_SSH_03
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+data and features,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+data and features > feature significance,1,1,2,0,0,1,0,0,0,0,MW_SSH_03
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+data and features > understanding of annotations,2,0,0,0,0,1,0,0,0,0,MW_SSH_03
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+data and features > legend,1,0,0,0,1,0,0,0,0,0,MW_SSH_03
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MW_SSH_03
+expectations,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+trust,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+barriers,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis,0,0,0,0,1,1,0,0,0,0,MW_SSH_04
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis > difficulties,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis > reflection time,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+methods of analysis > variability of decisions or evaluations,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+personification,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+associations,0,1,0,0,0,0,0,0,1,0,MW_SSH_04
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+negative reception,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+positive reception,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+aesthetics,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > lime,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > waterfall,0,0,0,0,0,1,0,0,0,0,MW_SSH_04
+slides > bee swarm,0,0,0,0,1,0,0,0,0,0,MW_SSH_04
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+slides > box plots,0,0,0,0,0,0,0,0,1,0,MW_SSH_04
+slides > histograms,0,0,0,0,0,0,0,1,0,0,MW_SSH_04
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+knowledge and experience > knowledge and experience in fungi,0,0,0,0,0,1,0,0,0,0,MW_SSH_04
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,1,0,0,1,0,0,0,0,MW_SSH_04
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+recommendations,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+recommendations > change of visualisation scheme,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > credibility,1,0,1,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > efficiency,0,0,1,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > similarity,0,0,0,0,1,1,0,0,0,0,MW_SSH_04
+evaluation criteria > appropriateness,1,0,1,0,1,0,0,0,0,0,MW_SSH_04
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > comprehensibility,3,0,4,0,2,3,0,2,2,0,MW_SSH_04
+evaluation criteria > unreadability,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+data and features,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+data and features > feature significance,2,0,4,0,2,3,0,1,1,0,MW_SSH_04
+data and features > lack of appropriate data,0,0,0,0,0,1,0,0,0,0,MW_SSH_04
+data and features > understanding of annotations,2,0,3,0,1,0,0,1,0,0,MW_SSH_04
+data and features > understanding of data gaps,1,0,0,0,1,0,0,0,0,0,MW_SSH_04
+data and features > legend,0,0,0,0,1,1,0,0,0,0,MW_SSH_04
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,MW_SSH_04
+expectations,2,0,0,0,0,0,0,0,1,3,MW_SSH_05
+trust,0,0,0,0,0,0,1,0,0,0,MW_SSH_05
+barriers,0,0,0,0,1,0,0,0,0,0,MW_SSH_05
+barriers > concerns,1,0,0,1,0,1,0,0,0,0,MW_SSH_05
+methods of analysis,0,0,0,2,1,2,0,0,0,0,MW_SSH_05
+methods of analysis > example analysis,0,0,0,2,1,2,0,0,0,0,MW_SSH_05
+methods of analysis > difficulties,0,0,0,0,2,0,0,0,1,1,MW_SSH_05
+methods of analysis > discrepancies,1,0,0,0,2,0,0,0,0,1,MW_SSH_05
+methods of analysis > thoroughness,2,1,0,0,1,0,0,0,0,3,MW_SSH_05
+methods of analysis > reflection time,0,1,0,0,0,1,0,0,0,0,MW_SSH_05
+methods of analysis > variability of decisions or evaluations,0,0,0,1,0,0,0,0,0,1,MW_SSH_05
+personification,0,2,2,0,0,0,0,0,1,1,MW_SSH_05
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+associations,3,0,0,3,0,2,1,0,0,1,MW_SSH_05
+associations > image of a toadstool,0,0,0,0,1,0,0,0,0,0,MW_SSH_05
+negative reception,3,0,1,1,1,2,1,1,0,0,MW_SSH_05
+positive reception,0,2,1,0,0,0,0,0,0,1,MW_SSH_05
+aesthetics,1,0,0,0,1,0,0,0,0,0,MW_SSH_05
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+aesthetics > layout,0,0,1,0,2,0,0,0,0,0,MW_SSH_05
+aesthetics > colour scheme,0,0,2,0,0,0,0,0,0,0,MW_SSH_05
+affects,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+affects > overwhelming,0,0,1,0,0,0,0,0,0,0,MW_SSH_05
+affects > overwhelming > uncertainty,0,0,0,1,1,2,0,0,1,1,MW_SSH_05
+affects > overwhelming > confusion,2,0,0,0,0,0,0,0,1,1,MW_SSH_05
+affects > overwhelming > tiredness,1,0,0,0,0,0,0,0,0,0,MW_SSH_05
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > lime,0,0,0,0,0,2,0,0,0,0,MW_SSH_05
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > bee swarm,0,0,0,2,0,0,0,0,0,0,MW_SSH_05
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > box plots,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+slides > histograms,0,0,0,0,0,0,0,0,0,1,MW_SSH_05
+slides > distribution of features,0,0,0,0,0,0,0,0,1,0,MW_SSH_05
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+knowledge and experience > knowledge and experience in fungi,1,0,0,0,1,0,0,0,0,2,MW_SSH_05
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,1,0,0,0,2,0,0,0,0,1,MW_SSH_05
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,1,0,0,1,0,0,1,MW_SSH_05
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,0,0,2,0,0,0,0,MW_SSH_05
+recommendations,1,0,0,0,0,1,0,0,0,0,MW_SSH_05
+recommendations > change of visualisation scheme,1,0,1,0,0,1,0,0,0,0,MW_SSH_05
+recommendations > supplementary materials,0,0,0,0,0,1,0,0,0,1,MW_SSH_05
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+evaluation criteria > credibility,0,0,0,0,0,0,1,0,0,0,MW_SSH_05
+evaluation criteria > efficiency,0,0,0,1,0,1,0,0,0,0,MW_SSH_05
+evaluation criteria > precision,2,0,0,0,0,0,0,0,0,2,MW_SSH_05
+evaluation criteria > similarity,0,0,1,0,0,0,0,0,0,0,MW_SSH_05
+evaluation criteria > appropriateness,0,1,0,0,2,0,0,0,0,0,MW_SSH_05
+evaluation criteria > representativeness,1,0,0,1,0,1,1,0,0,1,MW_SSH_05
+evaluation criteria > comprehensibility,1,1,2,2,0,1,1,0,1,2,MW_SSH_05
+evaluation criteria > unreadability,5,1,1,0,2,4,1,0,1,3,MW_SSH_05
+evaluation criteria > importance,0,0,0,1,0,1,0,0,0,0,MW_SSH_05
+evaluation criteria > accuracy,0,0,0,0,1,0,0,0,0,0,MW_SSH_05
+evaluation criteria > uselessness,1,0,0,0,1,1,0,0,0,2,MW_SSH_05
+data and features,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MW_SSH_05
+data and features > feature significance,0,1,2,0,1,0,0,0,0,2,MW_SSH_05
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,1,MW_SSH_05
+data and features > understanding of annotations,4,1,2,1,5,3,1,0,1,3,MW_SSH_05
+data and features > understanding of data gaps,5,0,0,0,0,0,0,0,1,4,MW_SSH_05
+data and features > legend,0,0,0,0,1,2,0,0,1,2,MW_SSH_05
+data and features > coordinate axes,0,0,0,0,1,0,0,0,3,3,MW_SSH_05
+expectations,0,4,0,0,0,0,3,0,0,1,MW_IT_06
+trust,0,0,0,1,2,0,1,0,0,1,MW_IT_06
+barriers,1,0,0,0,1,0,0,0,0,6,MW_IT_06
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+methods of analysis,0,0,1,0,0,1,0,0,0,0,MW_IT_06
+methods of analysis > example analysis,0,0,4,4,1,2,0,0,0,0,MW_IT_06
+methods of analysis > difficulties,0,2,0,0,0,2,0,0,0,0,MW_IT_06
+methods of analysis > discrepancies,0,1,1,1,0,0,1,0,0,0,MW_IT_06
+methods of analysis > thoroughness,0,0,0,0,1,3,4,1,1,2,MW_IT_06
+methods of analysis > reflection time,0,0,0,0,0,2,0,1,1,1,MW_IT_06
+methods of analysis > variability of decisions or evaluations,0,1,0,1,0,1,0,0,0,0,MW_IT_06
+personification,0,3,0,1,0,0,0,0,0,1,MW_IT_06
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+associations,0,1,0,0,0,0,4,0,0,0,MW_IT_06
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+negative reception,0,0,0,0,0,1,0,0,0,0,MW_IT_06
+positive reception,0,0,1,1,1,0,0,0,0,0,MW_IT_06
+aesthetics,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+aesthetics > colour scheme,0,0,0,0,0,1,0,0,0,0,MW_IT_06
+affects,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > interest,0,0,0,0,0,0,0,1,1,1,MW_IT_06
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > overwhelming > confusion,1,0,0,0,0,1,1,0,0,0,MW_IT_06
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides > counterfactual analysis,0,0,0,1,0,0,0,0,0,0,MW_IT_06
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides > lime,0,1,0,0,1,0,0,0,0,0,MW_IT_06
+slides > waterfall,0,0,0,1,0,0,0,0,0,0,MW_IT_06
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+slides > box plots,0,0,0,0,0,0,0,0,1,0,MW_IT_06
+slides > histograms,0,0,0,0,0,0,0,1,0,0,MW_IT_06
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+knowledge and experience > knowledge and experience in fungi,0,0,0,0,0,0,0,0,0,2,MW_IT_06
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,1,1,0,0,2,0,0,0,MW_IT_06
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,1,0,0,0,0,0,MW_IT_06
+recommendations,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+recommendations > change of visualisation scheme,1,0,0,0,0,0,0,0,0,0,MW_IT_06
+recommendations > supplementary materials,0,0,0,0,0,0,1,1,1,1,MW_IT_06
+recommendations > graphics,1,0,0,0,0,0,0,0,0,1,MW_IT_06
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+evaluation criteria > credibility,0,0,0,0,0,1,5,0,0,0,MW_IT_06
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+evaluation criteria > precision,0,0,0,0,0,0,6,1,1,0,MW_IT_06
+evaluation criteria > similarity,0,1,1,1,0,0,1,0,0,0,MW_IT_06
+evaluation criteria > appropriateness,0,1,0,0,2,0,0,0,0,0,MW_IT_06
+evaluation criteria > representativeness,0,0,0,0,0,0,3,1,1,0,MW_IT_06
+evaluation criteria > comprehensibility,0,0,4,1,0,1,1,1,1,0,MW_IT_06
+evaluation criteria > unreadability,1,0,0,0,1,5,2,0,0,6,MW_IT_06
+evaluation criteria > importance,0,0,0,1,1,0,1,0,0,0,MW_IT_06
+evaluation criteria > accuracy,0,0,0,0,1,0,0,0,0,0,MW_IT_06
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+data and features,0,0,0,0,0,0,0,0,0,0,MW_IT_06
+data and features > lack of significant features,0,0,0,0,1,0,0,0,0,0,MW_IT_06
+data and features > feature significance,0,0,2,1,2,1,0,0,0,2,MW_IT_06
+data and features > lack of appropriate data,0,1,0,0,1,0,1,0,0,0,MW_IT_06
+data and features > understanding of annotations,0,2,0,2,3,3,3,0,0,5,MW_IT_06
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,3,MW_IT_06
+data and features > legend,0,1,1,0,1,1,0,0,0,0,MW_IT_06
+data and features > coordinate axes,0,0,0,0,1,1,0,0,0,1,MW_IT_06
+expectations,0,0,0,1,0,0,0,0,0,0,MW_IT_07
+trust,0,0,0,2,0,0,0,0,0,0,MW_IT_07
+barriers,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+methods of analysis,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+methods of analysis > example analysis,0,0,0,1,0,0,0,0,0,0,MW_IT_07
+methods of analysis > difficulties,0,0,0,1,2,1,0,1,1,0,MW_IT_07
+methods of analysis > discrepancies,1,0,0,1,0,0,0,0,0,0,MW_IT_07
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+methods of analysis > reflection time,0,0,0,1,2,0,0,1,1,0,MW_IT_07
+methods of analysis > variability of decisions or evaluations,0,1,0,0,0,0,1,0,0,0,MW_IT_07
+personification,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+metaphorization,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+associations,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+negative reception,0,0,0,1,0,0,0,0,0,0,MW_IT_07
+positive reception,0,0,0,1,1,0,0,0,0,0,MW_IT_07
+aesthetics,0,0,0,1,0,0,0,0,0,0,MW_IT_07
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+aesthetics > colour scheme,0,0,0,0,0,1,0,0,0,0,MW_IT_07
+affects,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+affects > interest,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+affects > reluctance,0,0,0,1,0,0,0,0,0,0,MW_IT_07
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+affects > overwhelming > uncertainty,1,0,0,0,1,0,0,1,1,1,MW_IT_07
+affects > overwhelming > confusion,0,1,0,0,1,0,0,0,0,0,MW_IT_07
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > lime,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+slides > box plots,0,0,0,0,0,0,0,0,2,0,MW_IT_07
+slides > histograms,0,0,0,0,0,0,0,2,0,0,MW_IT_07
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+knowledge and experience > knowledge and experience in fungi,0,0,0,1,2,0,1,0,0,0,MW_IT_07
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+knowledge and experience > knowledge and experience in visualizations and analysis,0,1,0,0,1,0,2,0,0,0,MW_IT_07
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,1,0,0,0,MW_IT_07
+recommendations,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria > credibility,0,0,0,1,0,0,1,0,0,0,MW_IT_07
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria > precision,0,0,0,0,0,0,1,0,0,0,MW_IT_07
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria > appropriateness,0,0,0,1,1,0,1,0,0,0,MW_IT_07
+evaluation criteria > representativeness,0,0,0,0,0,0,2,0,0,0,MW_IT_07
+evaluation criteria > comprehensibility,1,3,3,2,0,3,0,1,1,1,MW_IT_07
+evaluation criteria > unreadability,2,1,0,0,4,4,0,2,2,0,MW_IT_07
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria > accuracy,0,1,0,0,0,0,0,0,0,0,MW_IT_07
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+data and features,0,0,0,0,0,0,0,0,0,0,MW_IT_07
+data and features > lack of significant features,0,0,0,0,1,0,0,0,0,0,MW_IT_07
+data and features > feature significance,0,0,0,0,1,1,0,0,0,0,MW_IT_07
+data and features > lack of appropriate data,0,0,0,0,0,1,0,0,0,0,MW_IT_07
+data and features > understanding of annotations,0,3,0,0,2,3,0,2,2,1,MW_IT_07
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,1,MW_IT_07
+data and features > legend,0,1,0,0,0,1,0,0,0,0,MW_IT_07
+data and features > coordinate axes,0,0,0,0,0,0,0,1,1,0,MW_IT_07
+expectations,0,0,1,1,1,0,3,0,0,0,MZ_SSH_02
+trust,0,0,2,2,1,0,0,0,0,0,MZ_SSH_02
+barriers,0,1,2,2,1,0,0,0,0,2,MZ_SSH_02
+barriers > concerns,0,0,2,0,0,0,0,0,0,0,MZ_SSH_02
+methods of analysis,1,1,2,2,2,1,0,0,1,1,MZ_SSH_02
+methods of analysis > example analysis,1,1,2,3,2,1,0,0,1,1,MZ_SSH_02
+methods of analysis > difficulties,0,1,2,1,0,2,0,0,0,0,MZ_SSH_02
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+methods of analysis > thoroughness,0,0,1,0,0,0,0,0,0,0,MZ_SSH_02
+methods of analysis > reflection time,0,1,1,1,1,0,0,0,0,0,MZ_SSH_02
+methods of analysis > variability of decisions or evaluations,0,0,2,1,0,2,0,0,0,0,MZ_SSH_02
+personification,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+metaphorization,0,0,3,0,0,0,0,0,0,0,MZ_SSH_02
+associations,2,1,5,0,0,0,0,0,0,0,MZ_SSH_02
+associations > image of a toadstool,0,0,0,2,1,0,0,0,0,0,MZ_SSH_02
+negative reception,1,1,2,0,0,0,0,1,1,1,MZ_SSH_02
+positive reception,0,0,5,4,2,2,1,0,0,0,MZ_SSH_02
+aesthetics,0,0,0,1,1,0,0,0,0,0,MZ_SSH_02
+aesthetics > font size,0,0,0,0,0,0,0,0,0,2,MZ_SSH_02
+aesthetics > layout,1,1,3,0,0,1,0,0,0,3,MZ_SSH_02
+aesthetics > colour scheme,0,0,1,3,4,3,0,1,1,0,MZ_SSH_02
+affects,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+affects > interest,0,0,3,0,2,0,0,0,0,0,MZ_SSH_02
+affects > reluctance,0,0,1,0,0,0,0,0,0,0,MZ_SSH_02
+affects > overwhelming,0,0,1,0,0,0,0,0,0,0,MZ_SSH_02
+affects > overwhelming > uncertainty,1,0,2,0,1,4,0,2,2,0,MZ_SSH_02
+affects > overwhelming > confusion,0,1,0,0,1,0,0,1,1,0,MZ_SSH_02
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+affects > surprise,0,0,2,0,0,0,0,0,0,0,MZ_SSH_02
+slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+slides > anchor,0,0,0,1,0,0,0,0,0,0,MZ_SSH_02
+slides > lime,0,0,1,0,2,1,0,0,0,0,MZ_SSH_02
+slides > waterfall,0,0,0,2,0,1,0,0,0,0,MZ_SSH_02
+slides > bee swarm,0,0,0,1,1,0,0,0,0,0,MZ_SSH_02
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+slides > box plots,0,0,0,0,0,0,0,0,3,0,MZ_SSH_02
+slides > histograms,0,0,0,0,0,0,0,3,0,0,MZ_SSH_02
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+knowledge and experience > knowledge and experience in fungi,0,0,1,1,1,0,0,0,0,0,MZ_SSH_02
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,2,1,0,0,0,0,0,MZ_SSH_02
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,0,0,0,0,0,0,0,MZ_SSH_02
+recommendations,0,0,0,2,0,0,0,0,0,0,MZ_SSH_02
+recommendations > change of visualisation scheme,1,2,5,1,0,1,1,0,0,0,MZ_SSH_02
+recommendations > supplementary materials,0,0,3,3,0,0,1,0,0,0,MZ_SSH_02
+recommendations > graphics,0,0,1,2,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > credibility,0,0,2,0,0,0,1,0,0,0,MZ_SSH_02
+evaluation criteria > efficiency,0,0,2,1,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > precision,1,0,1,0,1,0,1,0,0,0,MZ_SSH_02
+evaluation criteria > similarity,0,0,1,2,2,1,0,0,0,0,MZ_SSH_02
+evaluation criteria > appropriateness,0,0,1,2,1,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > comprehensibility,0,0,6,5,5,1,0,0,0,3,MZ_SSH_02
+evaluation criteria > unreadability,1,4,5,0,3,3,0,4,4,3,MZ_SSH_02
+evaluation criteria > importance,0,0,0,1,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > accuracy,0,0,0,1,0,0,0,0,0,0,MZ_SSH_02
+evaluation criteria > uselessness,1,1,1,1,2,4,0,2,3,0,MZ_SSH_02
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+data and features > lack of significant features,0,0,1,0,0,0,0,0,0,0,MZ_SSH_02
+data and features > feature significance,0,0,5,1,1,0,0,0,0,0,MZ_SSH_02
+data and features > lack of appropriate data,0,0,0,1,1,0,0,0,0,0,MZ_SSH_02
+data and features > understanding of annotations,0,2,5,3,3,4,0,1,1,3,MZ_SSH_02
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,0,MZ_SSH_02
+data and features > legend,0,2,3,0,3,3,0,0,0,0,MZ_SSH_02
+data and features > coordinate axes,0,0,0,2,0,0,0,3,3,2,MZ_SSH_02
+expectations,2,1,0,1,3,0,1,1,1,2,MZ_SSH_03
+trust,0,0,0,1,2,0,0,0,0,0,MZ_SSH_03
+barriers,0,0,0,0,1,1,0,0,0,0,MZ_SSH_03
+barriers > concerns,1,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+methods of analysis,0,1,2,8,2,3,0,2,2,0,MZ_SSH_03
+methods of analysis > example analysis,0,1,2,6,2,2,0,1,1,0,MZ_SSH_03
+methods of analysis > difficulties,0,1,1,0,0,2,0,1,1,0,MZ_SSH_03
+methods of analysis > discrepancies,0,3,0,2,2,1,0,3,3,1,MZ_SSH_03
+methods of analysis > thoroughness,0,1,4,1,4,3,0,1,1,2,MZ_SSH_03
+methods of analysis > reflection time,0,0,3,1,0,2,0,0,0,0,MZ_SSH_03
+methods of analysis > variability of decisions or evaluations,0,1,0,1,2,0,0,1,1,0,MZ_SSH_03
+personification,0,0,0,0,1,0,0,0,0,1,MZ_SSH_03
+metaphorization,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+associations,0,0,0,0,0,1,0,0,0,0,MZ_SSH_03
+associations > image of a toadstool,0,0,0,0,2,0,1,0,0,0,MZ_SSH_03
+negative reception,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+positive reception,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+aesthetics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+aesthetics > layout,0,0,1,0,0,0,0,0,0,0,MZ_SSH_03
+aesthetics > colour scheme,0,0,1,0,0,0,0,1,1,0,MZ_SSH_03
+affects,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+affects > interest,0,0,0,0,0,0,0,1,1,3,MZ_SSH_03
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+affects > overwhelming > uncertainty,1,1,3,1,3,3,1,1,1,0,MZ_SSH_03
+affects > overwhelming > confusion,0,2,0,0,0,0,0,1,1,0,MZ_SSH_03
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+affects > surprise,0,1,0,0,0,0,0,0,0,0,MZ_SSH_03
+slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,1,MZ_SSH_03
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+slides > anchor,0,0,0,0,0,0,0,1,1,0,MZ_SSH_03
+slides > lime,0,0,0,0,2,0,0,0,0,0,MZ_SSH_03
+slides > waterfall,0,0,0,2,0,0,0,0,0,0,MZ_SSH_03
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+slides > text slides,0,0,0,0,0,0,0,0,0,1,MZ_SSH_03
+slides > box plots,0,0,1,0,0,0,0,0,3,0,MZ_SSH_03
+slides > histograms,0,0,1,0,0,0,0,3,0,0,MZ_SSH_03
+slides > distribution of features,1,0,0,0,0,0,1,0,0,0,MZ_SSH_03
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+knowledge and experience > knowledge and experience in fungi,0,2,0,2,3,0,0,5,5,0,MZ_SSH_03
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,2,0,0,0,0,0,MZ_SSH_03
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,2,2,0,MZ_SSH_03
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,1,0,0,0,0,0,1,MZ_SSH_03
+recommendations,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+recommendations > change of visualisation scheme,0,0,2,0,0,0,0,0,0,0,MZ_SSH_03
+recommendations > supplementary materials,0,0,0,1,0,1,1,0,0,1,MZ_SSH_03
+recommendations > graphics,1,0,0,0,0,0,1,1,1,2,MZ_SSH_03
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+evaluation criteria > credibility,0,0,0,0,0,0,3,0,0,0,MZ_SSH_03
+evaluation criteria > efficiency,0,0,1,2,1,0,1,0,0,0,MZ_SSH_03
+evaluation criteria > precision,0,2,0,1,3,0,2,0,0,1,MZ_SSH_03
+evaluation criteria > similarity,1,0,0,1,1,0,0,0,0,0,MZ_SSH_03
+evaluation criteria > appropriateness,0,0,0,2,2,0,0,3,3,0,MZ_SSH_03
+evaluation criteria > representativeness,0,1,0,0,2,0,2,0,0,0,MZ_SSH_03
+evaluation criteria > comprehensibility,2,2,1,3,1,3,1,0,0,1,MZ_SSH_03
+evaluation criteria > unreadability,1,1,5,1,4,4,0,1,1,1,MZ_SSH_03
+evaluation criteria > importance,0,0,1,2,1,0,2,0,0,0,MZ_SSH_03
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+evaluation criteria > uselessness,0,1,2,0,1,1,0,1,1,0,MZ_SSH_03
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_03
+data and features > lack of significant features,0,0,0,0,3,0,0,0,0,0,MZ_SSH_03
+data and features > feature significance,0,1,0,0,1,1,0,0,0,0,MZ_SSH_03
+data and features > lack of appropriate data,0,1,0,0,1,0,0,0,0,0,MZ_SSH_03
+data and features > understanding of annotations,1,2,5,4,6,4,1,2,2,2,MZ_SSH_03
+data and features > understanding of data gaps,4,0,1,0,0,0,0,0,0,6,MZ_SSH_03
+data and features > legend,0,1,1,1,1,3,0,0,0,1,MZ_SSH_03
+data and features > coordinate axes,0,0,0,3,1,5,0,0,0,0,MZ_SSH_03
+expectations,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+trust,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+barriers,0,1,0,0,0,0,0,0,0,1,MZ_SSH_04
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+methods of analysis,1,6,11,13,7,2,0,0,0,1,MZ_SSH_04
+methods of analysis > example analysis,1,6,10,13,7,2,0,0,0,0,MZ_SSH_04
+methods of analysis > difficulties,0,1,0,0,0,2,0,0,0,2,MZ_SSH_04
+methods of analysis > discrepancies,0,0,0,1,1,0,0,0,0,0,MZ_SSH_04
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+methods of analysis > reflection time,1,6,10,12,7,1,0,0,0,0,MZ_SSH_04
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+personification,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+metaphorization,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+associations,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+negative reception,0,2,2,0,0,0,0,2,2,1,MZ_SSH_04
+positive reception,0,3,3,2,2,1,0,0,0,1,MZ_SSH_04
+aesthetics,1,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+aesthetics > font size,0,2,0,0,0,0,0,0,0,0,MZ_SSH_04
+aesthetics > layout,2,0,3,0,2,2,0,0,0,5,MZ_SSH_04
+aesthetics > colour scheme,0,0,1,0,2,0,0,0,0,0,MZ_SSH_04
+affects,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > interest,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > overwhelming > uncertainty,0,2,1,0,1,0,0,2,2,1,MZ_SSH_04
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+affects > surprise,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+slides > descriptive statistics,0,0,0,0,0,0,0,0,1,1,MZ_SSH_04
+slides > counterfactual analysis,0,0,0,2,1,0,0,0,0,0,MZ_SSH_04
+slides > anchor,0,0,0,1,0,1,0,0,0,0,MZ_SSH_04
+slides > lime,0,2,1,0,2,1,0,0,0,0,MZ_SSH_04
+slides > waterfall,0,1,0,2,0,0,0,0,0,0,MZ_SSH_04
+slides > bee swarm,0,0,1,1,0,0,0,0,0,0,MZ_SSH_04
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+slides > box plots,0,0,0,0,0,0,0,0,3,0,MZ_SSH_04
+slides > histograms,1,0,0,0,0,0,0,3,0,1,MZ_SSH_04
+slides > distribution of features,1,0,0,0,0,0,0,0,1,0,MZ_SSH_04
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+knowledge and experience > knowledge and experience in fungi,0,1,0,2,2,0,0,0,0,0,MZ_SSH_04
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,1,0,0,0,0,0,MZ_SSH_04
+recommendations,0,1,0,0,0,0,0,0,0,0,MZ_SSH_04
+recommendations > change of visualisation scheme,3,1,0,1,0,4,0,0,0,0,MZ_SSH_04
+recommendations > supplementary materials,1,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+evaluation criteria > efficiency,0,0,3,0,0,0,0,0,0,0,MZ_SSH_04
+evaluation criteria > precision,0,0,0,0,0,0,0,2,2,0,MZ_SSH_04
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,2,MZ_SSH_04
+evaluation criteria > appropriateness,0,2,0,2,2,0,0,0,0,0,MZ_SSH_04
+evaluation criteria > representativeness,0,0,0,0,0,0,0,1,1,0,MZ_SSH_04
+evaluation criteria > comprehensibility,0,1,4,1,2,1,1,0,0,2,MZ_SSH_04
+evaluation criteria > unreadability,0,2,1,0,0,5,0,3,3,1,MZ_SSH_04
+evaluation criteria > importance,0,0,4,1,0,1,0,0,0,0,MZ_SSH_04
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+evaluation criteria > uselessness,3,2,0,4,4,1,0,1,2,2,MZ_SSH_04
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+data and features > lack of significant features,0,0,0,0,2,0,0,0,0,0,MZ_SSH_04
+data and features > feature significance,0,1,2,1,0,2,0,0,0,1,MZ_SSH_04
+data and features > lack of appropriate data,0,1,0,2,2,0,0,1,1,0,MZ_SSH_04
+data and features > understanding of annotations,0,0,0,1,5,2,0,2,2,1,MZ_SSH_04
+data and features > understanding of data gaps,1,0,0,0,0,0,0,0,0,0,MZ_SSH_04
+data and features > legend,0,3,2,0,0,0,0,0,0,0,MZ_SSH_04
+data and features > coordinate axes,0,0,0,3,0,1,0,2,2,3,MZ_SSH_04
+expectations,0,1,3,0,1,0,0,0,0,1,MZ_IT_05
+trust,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+barriers,1,0,0,1,0,0,0,0,0,0,MZ_IT_05
+barriers > concerns,0,1,0,0,0,0,0,0,0,0,MZ_IT_05
+methods of analysis,0,0,2,0,0,0,0,0,0,0,MZ_IT_05
+methods of analysis > example analysis,0,0,3,1,0,0,0,0,0,0,MZ_IT_05
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+methods of analysis > discrepancies,0,1,0,1,2,0,0,0,0,0,MZ_IT_05
+methods of analysis > thoroughness,0,0,1,0,0,0,0,0,0,0,MZ_IT_05
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+personification,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+metaphorization,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+associations,0,0,3,0,0,0,0,0,0,0,MZ_IT_05
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+negative reception,0,0,2,2,1,0,0,0,0,1,MZ_IT_05
+positive reception,0,0,0,2,0,0,1,0,0,0,MZ_IT_05
+aesthetics,0,0,1,0,0,0,0,0,0,0,MZ_IT_05
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+aesthetics > layout,1,0,1,0,0,2,0,0,0,3,MZ_IT_05
+aesthetics > colour scheme,0,0,0,0,0,1,0,0,0,0,MZ_IT_05
+affects,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+affects > interest,0,1,3,0,0,0,0,1,1,0,MZ_IT_05
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+affects > overwhelming,0,0,0,0,0,0,0,0,0,2,MZ_IT_05
+affects > overwhelming > uncertainty,1,1,2,2,2,0,0,0,0,0,MZ_IT_05
+affects > overwhelming > confusion,0,0,0,0,0,1,0,0,0,0,MZ_IT_05
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+affects > surprise,1,1,0,0,3,0,0,0,0,0,MZ_IT_05
+slides,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > anchor,0,0,0,1,0,0,0,0,0,0,MZ_IT_05
+slides > lime,0,0,1,0,0,0,0,0,0,0,MZ_IT_05
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+slides > box plots,0,0,0,0,0,0,0,0,2,1,MZ_IT_05
+slides > histograms,0,0,0,0,0,0,0,2,0,0,MZ_IT_05
+slides > distribution of features,0,0,0,0,0,0,0,1,0,0,MZ_IT_05
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+knowledge and experience > knowledge and experience in fungi,0,1,0,1,3,0,0,0,0,0,MZ_IT_05
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+knowledge and experience > knowledge and experience in visualizations and analysis,0,1,0,0,1,1,0,0,0,1,MZ_IT_05
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+recommendations,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+recommendations > change of visualisation scheme,1,0,1,0,0,0,0,4,1,2,MZ_IT_05
+recommendations > supplementary materials,0,0,0,0,0,0,0,2,1,0,MZ_IT_05
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > credibility,0,0,0,1,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > efficiency,0,0,2,0,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > precision,0,0,0,0,0,0,1,0,0,0,MZ_IT_05
+evaluation criteria > similarity,0,0,2,0,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > appropriateness,0,1,0,3,2,0,0,0,0,0,MZ_IT_05
+evaluation criteria > representativeness,0,0,0,0,0,1,0,2,2,2,MZ_IT_05
+evaluation criteria > comprehensibility,0,2,3,1,3,2,1,2,2,1,MZ_IT_05
+evaluation criteria > unreadability,1,0,3,2,1,1,0,0,0,0,MZ_IT_05
+evaluation criteria > importance,0,0,0,1,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+evaluation criteria > uselessness,0,2,0,0,0,0,0,0,0,0,MZ_IT_05
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+data and features > lack of significant features,0,0,0,0,1,0,0,0,0,0,MZ_IT_05
+data and features > feature significance,0,0,2,2,3,1,0,2,1,0,MZ_IT_05
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,MZ_IT_05
+data and features > understanding of annotations,2,0,2,0,5,3,0,0,0,0,MZ_IT_05
+data and features > understanding of data gaps,1,0,2,0,0,0,0,0,0,2,MZ_IT_05
+data and features > legend,0,0,0,0,1,0,0,0,0,0,MZ_IT_05
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,1,MZ_IT_05
+expectations,1,0,0,1,2,0,2,0,0,0,MZ_IT_06
+trust,0,1,0,0,2,0,0,0,0,0,MZ_IT_06
+barriers,0,0,0,0,0,0,0,0,0,1,MZ_IT_06
+barriers > concerns,0,0,0,0,0,0,1,0,0,0,MZ_IT_06
+methods of analysis,0,0,2,1,1,0,0,0,0,1,MZ_IT_06
+methods of analysis > example analysis,0,0,3,0,0,0,0,0,0,0,MZ_IT_06
+methods of analysis > difficulties,0,0,0,0,1,1,0,0,0,0,MZ_IT_06
+methods of analysis > discrepancies,0,1,0,3,3,1,0,1,1,0,MZ_IT_06
+methods of analysis > thoroughness,1,1,2,5,4,0,2,1,1,1,MZ_IT_06
+methods of analysis > reflection time,0,2,0,1,2,1,0,0,0,0,MZ_IT_06
+methods of analysis > variability of decisions or evaluations,0,0,0,2,3,1,0,0,0,0,MZ_IT_06
+personification,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+metaphorization,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+associations,3,4,3,1,0,1,0,0,0,0,MZ_IT_06
+associations > image of a toadstool,0,2,0,0,3,0,0,0,0,0,MZ_IT_06
+negative reception,1,6,0,1,1,0,0,2,2,1,MZ_IT_06
+positive reception,0,0,2,4,1,0,2,0,0,0,MZ_IT_06
+aesthetics,0,2,0,0,0,0,0,0,0,0,MZ_IT_06
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+aesthetics > layout,2,0,0,2,2,0,1,0,0,1,MZ_IT_06
+aesthetics > colour scheme,0,0,0,0,1,0,0,0,0,1,MZ_IT_06
+affects,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > interest,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > overwhelming,2,1,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > overwhelming > uncertainty,0,0,0,2,4,0,0,0,0,0,MZ_IT_06
+affects > overwhelming > confusion,0,0,0,1,2,1,0,0,0,0,MZ_IT_06
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+affects > surprise,0,0,0,1,1,0,0,0,0,1,MZ_IT_06
+slides,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+slides > descriptive statistics,0,2,0,0,0,1,0,3,3,0,MZ_IT_06
+slides > counterfactual analysis,2,0,0,0,0,0,0,0,0,0,MZ_IT_06
+slides > anchor,0,0,0,0,0,0,1,0,0,0,MZ_IT_06
+slides > lime,0,0,0,0,2,1,0,0,0,0,MZ_IT_06
+slides > waterfall,0,0,0,2,0,1,0,0,0,0,MZ_IT_06
+slides > bee swarm,1,0,0,1,1,0,0,0,0,0,MZ_IT_06
+slides > text slides,0,0,1,0,0,0,0,0,0,1,MZ_IT_06
+slides > box plots,3,0,0,0,0,0,0,0,3,0,MZ_IT_06
+slides > histograms,3,0,0,0,0,0,0,3,0,0,MZ_IT_06
+slides > distribution of features,0,0,0,0,0,0,1,0,0,0,MZ_IT_06
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+knowledge and experience > knowledge and experience in fungi,0,2,0,2,2,0,0,0,0,0,MZ_IT_06
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,4,0,2,5,0,0,0,0,0,MZ_IT_06
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,1,1,1,1,2,0,0,0,MZ_IT_06
+knowledge and experience > knowledge and experience in analysing human behaviour,2,0,0,0,0,0,0,0,0,4,MZ_IT_06
+recommendations,0,0,0,2,0,0,0,0,0,0,MZ_IT_06
+recommendations > change of visualisation scheme,2,4,0,1,0,0,0,0,0,3,MZ_IT_06
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+evaluation criteria > credibility,0,0,0,0,0,0,1,0,0,0,MZ_IT_06
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+evaluation criteria > precision,2,0,0,4,1,3,1,0,0,1,MZ_IT_06
+evaluation criteria > similarity,1,0,0,0,0,1,0,0,0,0,MZ_IT_06
+evaluation criteria > appropriateness,0,2,0,1,1,0,1,0,0,0,MZ_IT_06
+evaluation criteria > representativeness,0,0,0,0,0,0,2,0,0,0,MZ_IT_06
+evaluation criteria > comprehensibility,2,6,2,3,1,3,2,3,3,4,MZ_IT_06
+evaluation criteria > unreadability,0,1,0,1,6,2,0,3,3,0,MZ_IT_06
+evaluation criteria > importance,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+evaluation criteria > accuracy,0,0,0,0,1,0,0,0,0,0,MZ_IT_06
+evaluation criteria > uselessness,1,2,0,0,0,0,0,3,2,1,MZ_IT_06
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MZ_IT_06
+data and features > feature significance,0,0,1,0,3,2,0,0,0,0,MZ_IT_06
+data and features > lack of appropriate data,0,0,0,0,1,0,0,4,4,0,MZ_IT_06
+data and features > understanding of annotations,0,1,0,2,7,1,0,1,1,1,MZ_IT_06
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,2,MZ_IT_06
+data and features > legend,0,2,0,2,2,1,0,2,2,0,MZ_IT_06
+data and features > coordinate axes,0,0,0,5,6,2,0,4,4,0,MZ_IT_06
+expectations,0,0,1,0,1,0,0,0,0,0,MZ_SSH_07
+trust,0,1,0,2,1,0,0,0,0,0,MZ_SSH_07
+barriers,0,0,0,0,0,1,0,0,0,0,MZ_SSH_07
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+methods of analysis,3,5,6,9,4,8,0,0,0,3,MZ_SSH_07
+methods of analysis > example analysis,3,5,6,8,3,7,0,0,0,3,MZ_SSH_07
+methods of analysis > difficulties,0,0,0,1,0,1,0,0,0,1,MZ_SSH_07
+methods of analysis > discrepancies,0,2,0,3,2,1,0,0,0,0,MZ_SSH_07
+methods of analysis > thoroughness,0,0,0,1,1,1,0,0,0,0,MZ_SSH_07
+methods of analysis > reflection time,0,0,0,1,0,0,0,0,0,0,MZ_SSH_07
+methods of analysis > variability of decisions or evaluations,0,0,0,3,1,0,0,0,0,0,MZ_SSH_07
+personification,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+metaphorization,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+associations,0,0,1,0,0,0,0,0,0,0,MZ_SSH_07
+associations > image of a toadstool,0,0,0,1,0,0,0,0,0,0,MZ_SSH_07
+negative reception,0,1,0,2,1,0,0,0,0,0,MZ_SSH_07
+positive reception,0,0,0,0,0,0,1,0,0,0,MZ_SSH_07
+aesthetics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+aesthetics > layout,1,0,0,0,0,0,0,0,0,1,MZ_SSH_07
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > interest,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > reluctance,1,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > overwhelming,1,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > overwhelming > uncertainty,0,1,0,3,1,1,0,0,0,2,MZ_SSH_07
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+affects > surprise,1,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+slides > counterfactual analysis,0,0,0,1,0,0,0,0,0,0,MZ_SSH_07
+slides > anchor,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+slides > lime,0,1,0,0,3,2,0,0,0,0,MZ_SSH_07
+slides > waterfall,0,0,0,3,0,1,0,0,0,0,MZ_SSH_07
+slides > bee swarm,0,0,0,2,1,0,0,0,0,0,MZ_SSH_07
+slides > text slides,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+slides > box plots,0,0,0,0,0,0,0,0,4,0,MZ_SSH_07
+slides > histograms,0,0,0,0,0,0,0,4,0,0,MZ_SSH_07
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+knowledge and experience > knowledge and experience in fungi,0,2,4,3,2,0,0,0,0,0,MZ_SSH_07
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,2,0,0,0,0,0,0,MZ_SSH_07
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,1,0,0,0,0,0,MZ_SSH_07
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+recommendations,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+recommendations > change of visualisation scheme,0,0,0,0,0,3,0,0,0,1,MZ_SSH_07
+recommendations > supplementary materials,1,0,3,0,1,0,0,0,0,3,MZ_SSH_07
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+evaluation criteria > credibility,0,0,0,0,0,0,3,0,0,0,MZ_SSH_07
+evaluation criteria > efficiency,0,0,0,2,0,0,0,0,0,0,MZ_SSH_07
+evaluation criteria > precision,0,0,0,1,1,1,1,0,0,0,MZ_SSH_07
+evaluation criteria > similarity,0,0,0,1,1,1,0,0,0,0,MZ_SSH_07
+evaluation criteria > appropriateness,0,1,2,1,1,0,0,0,0,0,MZ_SSH_07
+evaluation criteria > representativeness,0,0,0,0,0,0,1,0,0,0,MZ_SSH_07
+evaluation criteria > comprehensibility,0,3,6,4,1,4,1,3,3,1,MZ_SSH_07
+evaluation criteria > unreadability,0,0,0,2,3,1,0,1,1,5,MZ_SSH_07
+evaluation criteria > importance,0,0,0,2,0,0,0,0,0,0,MZ_SSH_07
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+evaluation criteria > uselessness,2,0,3,0,2,3,0,2,2,0,MZ_SSH_07
+data and features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+data and features > lack of significant features,0,0,0,0,0,0,0,0,0,0,MZ_SSH_07
+data and features > feature significance,2,1,6,1,2,4,0,0,0,0,MZ_SSH_07
+data and features > lack of appropriate data,2,0,0,1,1,0,0,0,0,0,MZ_SSH_07
+data and features > understanding of annotations,0,0,0,2,5,5,0,0,0,6,MZ_SSH_07
+data and features > understanding of data gaps,3,0,4,0,0,0,0,0,0,2,MZ_SSH_07
+data and features > legend,0,1,1,0,1,2,0,0,0,0,MZ_SSH_07
+data and features > coordinate axes,0,0,0,2,2,3,0,1,1,5,MZ_SSH_07
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+expectations > biotope,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+expectations > dataset,1,0,0,0,0,0,1,0,0,0,PK_DE_01
+expectations > macroscopic features,0,0,1,0,1,0,0,0,0,0,PK_DE_01
+expectations > organoleptic features,0,0,0,0,0,2,0,0,0,0,PK_DE_01
+expectations > user-centred approach,0,0,0,0,0,0,1,0,0,0,PK_DE_01
+trust,0,0,1,0,3,0,2,0,0,0,PK_DE_01
+barriers,0,0,2,0,2,0,0,0,1,0,PK_DE_01
+barriers > concerns,0,0,1,0,1,0,0,0,0,0,PK_DE_01
+methods of analysis,1,1,0,1,2,0,0,0,0,0,PK_DE_01
+methods of analysis > ai hypotheses,0,0,0,0,0,0,1,0,0,0,PK_DE_01
+methods of analysis > identification practice,0,3,2,1,0,0,1,0,0,0,PK_DE_01
+methods of analysis > omission,5,1,1,3,1,4,0,0,0,3,PK_DE_01
+methods of analysis > taxons,4,3,1,2,2,1,1,0,0,0,PK_DE_01
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+methods of analysis > difficulties,1,3,0,1,1,0,0,0,0,0,PK_DE_01
+methods of analysis > discrepancies,0,0,0,0,0,1,0,0,0,1,PK_DE_01
+methods of analysis > thoroughness,0,2,0,0,0,0,0,0,0,0,PK_DE_01
+methods of analysis > reflection time,0,1,0,0,0,0,0,0,0,0,PK_DE_01
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+positive reception,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+affects > reluctance,0,2,0,0,0,0,0,0,1,0,PK_DE_01
+affects > overwhelming,0,0,1,0,1,0,0,0,0,0,PK_DE_01
+affects > overwhelming > uncertainty,1,1,0,1,2,0,1,0,0,0,PK_DE_01
+affects > overwhelming > confusion,0,0,0,1,0,0,0,0,0,0,PK_DE_01
+affects > overwhelming > tiredness,0,0,1,0,0,0,0,0,0,0,PK_DE_01
+affects > surprise,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+knowledge and experience > knowledge and experience in fungi,8,4,1,7,4,4,1,0,0,2,PK_DE_01
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,8,10,1,2,8,4,3,0,0,0,PK_DE_01
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > credibility,0,0,0,1,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > efficiency,2,0,2,1,2,0,1,0,0,0,PK_DE_01
+evaluation criteria > precision,0,1,1,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > appropriateness,0,1,0,2,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > comprehensibility,1,0,0,0,0,0,0,0,0,0,PK_DE_01
+evaluation criteria > unreadability,3,3,3,5,5,2,0,0,2,1,PK_DE_01
+evaluation criteria > importance,7,1,3,5,1,4,0,0,0,0,PK_DE_01
+evaluation criteria > accuracy,0,1,0,0,0,1,0,0,0,0,PK_DE_01
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_01
+data and features > lack of significant features,0,0,2,0,0,0,0,0,0,0,PK_DE_01
+data and features > feature significance,7,1,2,5,1,4,0,0,0,0,PK_DE_01
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,1,0,PK_DE_01
+data and features > understanding of annotations,0,1,0,1,0,0,0,0,0,1,PK_DE_01
+data and features > understanding of data gaps,7,0,0,0,0,0,0,0,0,0,PK_DE_01
+data and features > legend,0,2,0,0,0,0,0,0,0,0,PK_DE_01
+data and features > coordinate axes,0,0,0,0,0,0,0,0,1,0,PK_DE_01
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+expectations > biotope,0,0,0,0,0,0,1,0,0,9,PK_DE_02
+expectations > dataset,0,0,0,0,0,0,0,0,0,6,PK_DE_02
+expectations > macroscopic features,1,1,0,1,0,0,0,0,0,0,PK_DE_02
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+expectations > user-centred approach,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+trust,0,0,1,0,1,0,1,0,0,0,PK_DE_02
+barriers,0,0,0,0,3,2,0,0,0,0,PK_DE_02
+barriers > concerns,0,0,1,0,1,0,1,0,0,0,PK_DE_02
+methods of analysis,0,1,0,0,1,5,0,0,0,0,PK_DE_02
+methods of analysis > ai hypotheses,0,0,1,0,1,0,1,1,1,0,PK_DE_02
+methods of analysis > identification practice,0,2,0,1,0,0,0,0,0,8,PK_DE_02
+methods of analysis > omission,0,3,0,0,0,0,0,0,0,19,PK_DE_02
+methods of analysis > taxons,2,7,1,2,6,0,2,0,0,13,PK_DE_02
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+methods of analysis > difficulties,0,2,0,0,0,0,0,2,0,0,PK_DE_02
+methods of analysis > discrepancies,0,2,0,0,0,0,0,0,0,0,PK_DE_02
+methods of analysis > thoroughness,0,1,0,1,0,0,2,0,0,1,PK_DE_02
+methods of analysis > reflection time,1,0,0,0,0,1,0,0,0,0,PK_DE_02
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,1,0,0,2,0,PK_DE_02
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+associations,0,2,0,0,0,3,0,0,0,0,PK_DE_02
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+associations > taxonomic keys,1,0,0,0,0,0,0,0,0,4,PK_DE_02
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+positive reception,0,1,1,0,0,1,1,1,1,2,PK_DE_02
+aesthetics,0,0,0,0,0,0,0,0,0,1,PK_DE_02
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+aesthetics > layout,0,3,0,0,1,1,0,0,0,0,PK_DE_02
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > interest,0,3,1,1,0,0,0,1,1,0,PK_DE_02
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > overwhelming > uncertainty,0,2,1,2,1,0,0,0,2,2,PK_DE_02
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+affects > surprise,0,0,0,0,0,0,0,0,1,0,PK_DE_02
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > waterfall,0,0,0,0,0,2,0,0,0,0,PK_DE_02
+slides > bee swarm,0,0,0,0,2,0,0,0,0,0,PK_DE_02
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+slides > box plots,0,0,0,0,0,0,0,0,1,0,PK_DE_02
+slides > histograms,0,0,0,0,0,0,0,1,0,0,PK_DE_02
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+knowledge and experience > knowledge and experience in fungi,6,7,1,4,6,2,3,0,0,13,PK_DE_02
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,4,2,2,3,2,0,0,0,13,PK_DE_02
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+recommendations > change of visualisation scheme,0,2,0,0,0,0,0,2,1,0,PK_DE_02
+recommendations > supplementary materials,0,0,0,0,1,0,0,0,0,0,PK_DE_02
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+evaluation criteria > efficiency,0,1,1,0,0,2,0,1,0,0,PK_DE_02
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,2,PK_DE_02
+evaluation criteria > similarity,0,3,0,0,0,0,0,0,0,0,PK_DE_02
+evaluation criteria > appropriateness,0,2,0,0,4,2,3,0,0,0,PK_DE_02
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+evaluation criteria > comprehensibility,2,2,2,3,0,2,4,0,0,2,PK_DE_02
+evaluation criteria > unreadability,0,2,0,0,0,0,0,3,5,0,PK_DE_02
+evaluation criteria > importance,1,2,1,1,4,2,1,0,0,16,PK_DE_02
+evaluation criteria > accuracy,0,0,0,0,0,1,0,0,0,0,PK_DE_02
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_02
+data and features > lack of significant features,0,1,0,1,1,1,1,0,0,0,PK_DE_02
+data and features > feature significance,1,1,1,0,3,1,0,0,0,16,PK_DE_02
+data and features > lack of appropriate data,0,0,0,2,1,0,0,2,1,0,PK_DE_02
+data and features > understanding of annotations,0,3,0,0,4,1,0,0,0,1,PK_DE_02
+data and features > understanding of data gaps,5,0,0,0,0,0,0,0,0,0,PK_DE_02
+data and features > legend,0,3,0,1,1,1,0,2,0,0,PK_DE_02
+data and features > coordinate axes,0,0,0,0,0,0,0,0,1,0,PK_DE_02
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+expectations > biotope,0,0,0,0,0,1,1,0,0,0,PK_DE_03
+expectations > dataset,0,0,0,0,0,1,0,0,0,0,PK_DE_03
+expectations > macroscopic features,0,0,0,0,1,3,0,0,0,1,PK_DE_03
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+expectations > user-centred approach,0,0,0,0,0,0,0,0,0,1,PK_DE_03
+trust,0,0,0,0,0,0,0,0,0,1,PK_DE_03
+barriers,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > ai hypotheses,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > identification practice,0,2,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > omission,0,0,0,0,0,0,0,0,2,3,PK_DE_03
+methods of analysis > taxons,0,3,3,0,0,2,1,0,0,0,PK_DE_03
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+personification,0,0,0,0,0,1,1,0,0,1,PK_DE_03
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+associations > fungi guides,1,0,0,0,0,3,0,0,0,0,PK_DE_03
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+negative reception,0,2,1,1,0,0,0,0,0,0,PK_DE_03
+positive reception,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > nervousness,0,2,0,0,0,0,0,0,0,0,PK_DE_03
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > overwhelming > confusion,0,1,1,0,0,0,0,0,0,0,PK_DE_03
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+affects > surprise,1,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+knowledge and experience > knowledge and experience in fungi,1,2,0,0,0,4,1,0,0,4,PK_DE_03
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,2,2,0,0,0,PK_DE_03
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+evaluation criteria > credibility,0,0,1,0,0,2,1,0,0,1,PK_DE_03
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,2,PK_DE_03
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+evaluation criteria > appropriateness,0,0,0,0,0,1,1,0,0,2,PK_DE_03
+evaluation criteria > representativeness,0,0,0,0,0,0,1,0,0,0,PK_DE_03
+evaluation criteria > comprehensibility,2,0,0,0,0,0,0,0,0,2,PK_DE_03
+evaluation criteria > unreadability,0,1,4,2,1,0,0,1,0,0,PK_DE_03
+evaluation criteria > importance,0,5,3,1,3,7,0,0,0,1,PK_DE_03
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+data and features > lack of significant features,0,5,3,1,3,3,0,0,0,0,PK_DE_03
+data and features > feature significance,0,0,0,0,0,5,0,0,0,1,PK_DE_03
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+data and features > understanding of annotations,0,1,0,0,0,0,0,0,0,0,PK_DE_03
+data and features > understanding of data gaps,2,0,1,0,0,0,0,0,0,0,PK_DE_03
+data and features > legend,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_03
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+expectations > biotope,2,0,0,0,0,0,0,1,0,2,PK_DE_04
+expectations > dataset,0,0,0,0,1,1,0,0,0,0,PK_DE_04
+expectations > macroscopic features,0,0,1,0,2,0,0,0,0,0,PK_DE_04
+expectations > organoleptic features,0,0,0,1,0,1,0,0,0,1,PK_DE_04
+expectations > user-centred approach,0,0,0,3,2,1,0,0,0,2,PK_DE_04
+trust,0,1,2,2,1,0,0,0,0,3,PK_DE_04
+barriers,0,1,3,2,3,2,3,0,0,0,PK_DE_04
+barriers > concerns,0,1,0,2,1,0,0,0,0,3,PK_DE_04
+methods of analysis,0,0,0,2,1,3,1,0,0,0,PK_DE_04
+methods of analysis > ai hypotheses,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+methods of analysis > identification practice,0,0,1,0,0,0,0,0,0,1,PK_DE_04
+methods of analysis > omission,5,2,4,9,4,5,0,2,1,10,PK_DE_04
+methods of analysis > taxons,0,3,1,1,3,0,2,0,0,2,PK_DE_04
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+methods of analysis > difficulties,0,0,1,0,0,0,0,0,0,0,PK_DE_04
+methods of analysis > discrepancies,1,0,0,0,0,0,0,0,0,0,PK_DE_04
+methods of analysis > thoroughness,1,1,0,0,0,0,2,0,0,0,PK_DE_04
+methods of analysis > reflection time,1,0,0,0,0,0,1,0,0,0,PK_DE_04
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+associations > apps,0,0,0,0,0,2,0,0,0,0,PK_DE_04
+associations > fungi guides,0,0,0,0,0,2,1,0,0,0,PK_DE_04
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+negative reception,1,0,1,0,0,1,1,0,0,2,PK_DE_04
+positive reception,0,0,0,2,0,0,0,0,1,0,PK_DE_04
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+affects > nervousness,0,0,0,0,1,1,0,1,1,0,PK_DE_04
+affects > interest,0,3,0,2,0,0,3,0,0,0,PK_DE_04
+affects > reluctance,0,0,0,0,0,1,0,0,0,0,PK_DE_04
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+affects > overwhelming > uncertainty,0,0,0,0,0,1,2,0,0,0,PK_DE_04
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+affects > surprise,1,0,0,0,1,0,1,0,0,0,PK_DE_04
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > counterfactual analysis,0,0,0,2,0,0,0,0,0,0,PK_DE_04
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > lime,0,2,0,0,0,0,0,0,0,0,PK_DE_04
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+slides > box plots,0,0,0,0,0,0,0,0,1,0,PK_DE_04
+slides > histograms,0,0,0,0,0,0,0,1,0,0,PK_DE_04
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+knowledge and experience > knowledge and experience in fungi,2,1,3,8,2,6,1,2,1,3,PK_DE_04
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,2,2,0,1,0,1,0,0,2,PK_DE_04
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,4,0,0,0,0,PK_DE_04
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,0,0,0,0,0,0,2,PK_DE_04
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+evaluation criteria > credibility,0,0,0,4,4,4,4,0,0,2,PK_DE_04
+evaluation criteria > efficiency,0,2,5,2,0,4,1,2,1,0,PK_DE_04
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,3,PK_DE_04
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+evaluation criteria > appropriateness,0,1,4,7,2,0,9,0,0,3,PK_DE_04
+evaluation criteria > representativeness,0,1,0,5,7,4,5,1,1,6,PK_DE_04
+evaluation criteria > comprehensibility,0,1,0,1,0,0,2,0,0,0,PK_DE_04
+evaluation criteria > unreadability,0,1,1,1,0,2,1,0,0,0,PK_DE_04
+evaluation criteria > importance,5,0,3,6,9,4,1,2,1,10,PK_DE_04
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+data and features > lack of significant features,1,0,3,4,5,4,0,2,1,6,PK_DE_04
+data and features > feature significance,5,0,0,2,4,0,1,0,0,7,PK_DE_04
+data and features > lack of appropriate data,0,0,0,0,0,0,5,0,0,1,PK_DE_04
+data and features > understanding of annotations,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+data and features > understanding of data gaps,3,0,0,0,0,0,0,0,0,0,PK_DE_04
+data and features > legend,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_04
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+expectations > biotope,0,0,0,0,0,0,0,0,0,7,PK_DE_05
+expectations > dataset,9,0,0,0,0,0,3,0,0,9,PK_DE_05
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+expectations > organoleptic features,0,0,1,0,0,0,2,0,0,0,PK_DE_05
+expectations > user-centred approach,3,0,0,0,1,0,0,0,0,1,PK_DE_05
+trust,3,0,1,0,2,1,0,0,0,2,PK_DE_05
+barriers,2,0,1,0,1,1,0,0,0,3,PK_DE_05
+barriers > concerns,2,0,1,0,2,1,0,0,0,2,PK_DE_05
+methods of analysis,0,0,0,1,1,1,3,0,0,5,PK_DE_05
+methods of analysis > ai hypotheses,1,0,0,0,0,1,0,0,0,0,PK_DE_05
+methods of analysis > identification practice,5,0,0,0,0,1,1,0,0,4,PK_DE_05
+methods of analysis > omission,1,0,0,0,1,0,0,0,0,1,PK_DE_05
+methods of analysis > taxons,4,2,1,1,6,7,1,0,0,6,PK_DE_05
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+methods of analysis > difficulties,0,1,1,1,0,1,0,0,0,1,PK_DE_05
+methods of analysis > discrepancies,2,0,0,0,0,0,0,1,0,0,PK_DE_05
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,1,PK_DE_05
+methods of analysis > reflection time,0,0,1,0,0,0,0,0,0,0,PK_DE_05
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,1,PK_DE_05
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+associations,0,0,0,0,0,1,1,0,0,0,PK_DE_05
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+negative reception,2,0,0,0,1,0,0,1,0,3,PK_DE_05
+positive reception,0,0,0,0,1,0,3,0,0,0,PK_DE_05
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+aesthetics > font size,0,0,0,0,0,0,0,1,0,0,PK_DE_05
+aesthetics > layout,0,0,0,0,1,0,0,1,0,0,PK_DE_05
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects > interest,0,0,0,1,0,1,0,0,0,0,PK_DE_05
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects > overwhelming > uncertainty,6,3,0,1,2,3,2,0,0,1,PK_DE_05
+affects > overwhelming > confusion,1,1,0,0,0,2,0,0,0,1,PK_DE_05
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+affects > surprise,1,1,0,1,1,1,0,0,0,0,PK_DE_05
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,2,PK_DE_05
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+slides > distribution of features,2,0,0,0,0,0,0,0,0,0,PK_DE_05
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+knowledge and experience > knowledge and experience in fungi,12,2,2,4,8,5,7,0,0,15,PK_DE_05
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,4,0,1,1,0,0,0,0,0,1,PK_DE_05
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,1,PK_DE_05
+knowledge and experience > knowledge and experience in analysing human behaviour,4,0,0,0,0,0,0,0,0,1,PK_DE_05
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+recommendations > change of visualisation scheme,2,0,0,0,1,0,0,0,0,6,PK_DE_05
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+recommendations > graphics,0,1,0,1,0,0,0,0,0,0,PK_DE_05
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+evaluation criteria > credibility,11,0,0,2,1,2,1,0,0,16,PK_DE_05
+evaluation criteria > efficiency,1,0,0,0,3,9,0,0,0,3,PK_DE_05
+evaluation criteria > precision,2,1,1,0,0,1,0,0,0,2,PK_DE_05
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+evaluation criteria > appropriateness,14,0,0,2,4,3,5,0,0,18,PK_DE_05
+evaluation criteria > representativeness,16,3,1,4,2,3,2,0,0,20,PK_DE_05
+evaluation criteria > comprehensibility,0,1,0,4,2,1,3,2,1,0,PK_DE_05
+evaluation criteria > unreadability,2,0,0,0,1,1,1,0,0,2,PK_DE_05
+evaluation criteria > importance,10,1,2,3,8,3,0,0,0,2,PK_DE_05
+evaluation criteria > accuracy,3,0,0,0,0,0,0,0,0,3,PK_DE_05
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,1,PK_DE_05
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+data and features > lack of significant features,2,1,2,0,4,3,0,0,0,0,PK_DE_05
+data and features > feature significance,8,0,0,3,4,1,0,0,0,2,PK_DE_05
+data and features > lack of appropriate data,7,0,1,1,3,4,0,0,0,3,PK_DE_05
+data and features > understanding of annotations,1,0,0,0,0,0,0,0,0,0,PK_DE_05
+data and features > understanding of data gaps,5,0,0,0,0,0,0,0,0,9,PK_DE_05
+data and features > legend,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_05
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+expectations > biotope,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+expectations > dataset,2,0,0,0,0,0,1,0,0,0,PK_DE_06
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+expectations > user-centred approach,3,0,0,0,0,0,0,0,0,0,PK_DE_06
+trust,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+barriers,0,0,0,0,0,0,2,0,0,0,PK_DE_06
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis,1,0,0,0,1,2,0,0,0,0,PK_DE_06
+methods of analysis > ai hypotheses,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > identification practice,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > omission,0,1,0,0,0,0,0,0,0,6,PK_DE_06
+methods of analysis > taxons,2,1,2,0,1,0,3,0,0,4,PK_DE_06
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > thoroughness,0,0,0,0,0,0,5,0,0,0,PK_DE_06
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+associations > fungi guides,0,0,0,0,0,0,2,0,0,0,PK_DE_06
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+negative reception,0,0,0,0,4,1,0,0,0,1,PK_DE_06
+positive reception,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+aesthetics > layout,0,0,1,0,0,0,0,0,0,0,PK_DE_06
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+affects > nervousness,0,0,0,0,1,1,1,0,0,0,PK_DE_06
+affects > interest,0,0,0,0,0,0,5,0,0,0,PK_DE_06
+affects > reluctance,0,1,0,0,1,0,0,0,0,0,PK_DE_06
+affects > overwhelming,0,0,1,0,0,0,0,0,0,0,PK_DE_06
+affects > overwhelming > uncertainty,0,0,0,0,0,0,2,0,0,1,PK_DE_06
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+affects > surprise,0,0,0,0,0,0,0,0,0,1,PK_DE_06
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+slides > text slides,0,0,0,0,0,0,0,0,0,1,PK_DE_06
+slides > box plots,0,0,0,0,0,0,0,0,1,0,PK_DE_06
+slides > histograms,0,0,0,0,0,0,0,1,0,0,PK_DE_06
+slides > distribution of features,0,0,0,0,0,0,1,0,0,0,PK_DE_06
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+knowledge and experience > knowledge and experience in fungi,3,1,1,0,2,2,1,0,0,7,PK_DE_06
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,1,0,0,0,0,0,0,0,PK_DE_06
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+recommendations > change of visualisation scheme,0,0,0,0,2,0,0,0,0,1,PK_DE_06
+recommendations > supplementary materials,0,0,2,0,0,0,0,0,0,0,PK_DE_06
+recommendations > graphics,0,2,0,0,0,0,0,0,0,0,PK_DE_06
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+evaluation criteria > efficiency,0,0,1,0,1,0,0,0,0,0,PK_DE_06
+evaluation criteria > precision,0,0,0,0,0,0,1,0,0,3,PK_DE_06
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+evaluation criteria > appropriateness,0,0,0,0,1,0,2,0,0,5,PK_DE_06
+evaluation criteria > representativeness,0,0,0,0,0,0,3,0,0,0,PK_DE_06
+evaluation criteria > comprehensibility,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+evaluation criteria > unreadability,2,1,2,0,2,3,1,1,1,3,PK_DE_06
+evaluation criteria > importance,3,0,1,0,4,2,0,0,0,0,PK_DE_06
+evaluation criteria > accuracy,0,0,0,0,1,0,1,0,0,7,PK_DE_06
+evaluation criteria > uselessness,0,1,0,0,0,0,0,0,0,0,PK_DE_06
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+data and features > lack of significant features,0,0,1,0,2,0,0,0,0,0,PK_DE_06
+data and features > feature significance,3,0,0,0,2,2,0,0,0,0,PK_DE_06
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+data and features > understanding of annotations,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,1,PK_DE_06
+data and features > legend,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_06
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+expectations > biotope,0,3,0,1,0,0,3,0,0,9,PK_DE_07
+expectations > dataset,4,0,0,0,0,0,1,0,0,0,PK_DE_07
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,1,PK_DE_07
+expectations > organoleptic features,1,0,0,0,0,0,0,0,0,0,PK_DE_07
+expectations > user-centred approach,0,0,1,0,0,1,0,0,0,4,PK_DE_07
+trust,0,0,3,1,1,0,0,0,0,0,PK_DE_07
+barriers,0,0,3,1,1,0,1,0,0,0,PK_DE_07
+barriers > concerns,0,0,1,0,0,0,0,0,0,0,PK_DE_07
+methods of analysis,0,0,1,1,0,0,0,0,0,8,PK_DE_07
+methods of analysis > ai hypotheses,0,0,0,0,1,2,0,0,0,1,PK_DE_07
+methods of analysis > identification practice,0,0,0,0,0,0,0,0,0,1,PK_DE_07
+methods of analysis > omission,0,0,0,0,0,0,0,0,0,5,PK_DE_07
+methods of analysis > taxons,3,1,2,3,4,3,0,0,0,9,PK_DE_07
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+methods of analysis > reflection time,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+associations,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+negative reception,0,1,0,0,0,0,0,0,0,1,PK_DE_07
+positive reception,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+aesthetics > font size,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+aesthetics > layout,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > overwhelming > uncertainty,0,0,0,0,0,0,0,1,0,4,PK_DE_07
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,3,PK_DE_07
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+affects > surprise,0,0,0,0,1,0,0,0,0,0,PK_DE_07
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > lime,0,0,0,0,1,0,0,0,0,0,PK_DE_07
+slides > waterfall,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+knowledge and experience > knowledge and experience in fungi,3,2,3,6,4,3,3,0,0,25,PK_DE_07
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,3,3,3,5,4,1,0,0,0,1,PK_DE_07
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,1,0,0,0,0,0,2,PK_DE_07
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,1,1,0,1,0,0,0,4,PK_DE_07
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+recommendations > change of visualisation scheme,0,0,0,1,0,0,0,0,0,0,PK_DE_07
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+evaluation criteria > credibility,0,0,1,1,0,0,2,0,0,3,PK_DE_07
+evaluation criteria > efficiency,0,0,1,0,1,1,0,0,0,1,PK_DE_07
+evaluation criteria > precision,0,0,0,0,0,1,0,0,0,5,PK_DE_07
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+evaluation criteria > appropriateness,1,1,2,2,1,0,3,0,0,1,PK_DE_07
+evaluation criteria > representativeness,0,0,2,5,4,3,2,0,0,5,PK_DE_07
+evaluation criteria > comprehensibility,2,1,1,2,1,2,0,1,1,2,PK_DE_07
+evaluation criteria > unreadability,0,0,0,1,4,1,0,0,0,5,PK_DE_07
+evaluation criteria > importance,0,1,2,1,0,1,0,0,0,4,PK_DE_07
+evaluation criteria > accuracy,0,0,0,0,0,2,1,0,0,4,PK_DE_07
+evaluation criteria > uselessness,0,1,1,0,0,0,0,0,0,0,PK_DE_07
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+data and features > lack of significant features,0,0,1,0,0,1,0,0,0,0,PK_DE_07
+data and features > feature significance,0,1,1,1,0,1,0,0,0,4,PK_DE_07
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+data and features > understanding of annotations,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+data and features > understanding of data gaps,4,0,0,0,0,0,0,0,0,7,PK_DE_07
+data and features > legend,0,0,0,2,0,0,0,0,0,0,PK_DE_07
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_07
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+expectations > biotope,1,1,3,0,1,3,1,0,0,3,PK_DE_08
+expectations > dataset,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+expectations > macroscopic features,1,0,2,0,0,1,0,0,0,1,PK_DE_08
+expectations > organoleptic features,0,0,1,0,0,0,0,0,0,0,PK_DE_08
+expectations > user-centred approach,0,0,0,0,0,2,0,0,0,0,PK_DE_08
+trust,0,0,0,0,0,0,1,0,0,0,PK_DE_08
+barriers,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+barriers > concerns,0,0,0,0,0,0,1,0,0,0,PK_DE_08
+methods of analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > ai hypotheses,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > identification practice,5,1,5,0,0,5,2,1,1,3,PK_DE_08
+methods of analysis > omission,4,6,11,1,2,5,4,2,2,4,PK_DE_08
+methods of analysis > taxons,1,1,10,0,0,1,1,0,0,2,PK_DE_08
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > difficulties,0,0,0,0,0,0,1,0,0,0,PK_DE_08
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > reflection time,0,1,0,0,0,0,0,0,0,0,PK_DE_08
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+positive reception,0,0,2,0,0,0,1,0,0,0,PK_DE_08
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > overwhelming > uncertainty,1,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > overwhelming > confusion,0,0,0,0,0,0,1,0,0,0,PK_DE_08
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+affects > surprise,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+slides > box plots,0,0,0,0,0,0,0,0,2,0,PK_DE_08
+slides > histograms,0,0,0,0,0,0,0,2,0,0,PK_DE_08
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+knowledge and experience > knowledge and experience in fungi,4,2,8,1,2,4,3,1,1,4,PK_DE_08
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,2,1,8,0,0,0,0,1,1,2,PK_DE_08
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+knowledge and experience > knowledge and experience in analysing human behaviour,1,0,0,0,0,0,0,0,0,0,PK_DE_08
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > efficiency,0,0,1,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > precision,1,0,0,0,0,1,0,0,0,0,PK_DE_08
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > appropriateness,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > representativeness,1,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > comprehensibility,0,0,0,0,0,0,2,0,0,0,PK_DE_08
+evaluation criteria > unreadability,0,2,0,1,2,2,0,0,0,0,PK_DE_08
+evaluation criteria > importance,4,3,7,1,2,3,0,1,1,2,PK_DE_08
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+data and features > lack of significant features,0,0,0,0,2,1,0,0,0,0,PK_DE_08
+data and features > feature significance,4,3,7,1,0,2,0,1,1,2,PK_DE_08
+data and features > lack of appropriate data,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+data and features > understanding of annotations,1,4,2,0,0,0,1,1,1,0,PK_DE_08
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+data and features > legend,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,0,PK_DE_08
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+expectations > biotope,0,0,0,0,1,0,0,0,0,0,PK_DE_09
+expectations > dataset,0,0,1,0,0,0,0,0,0,0,PK_DE_09
+expectations > macroscopic features,0,0,0,0,4,0,0,0,0,0,PK_DE_09
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+expectations > user-centred approach,1,0,0,0,0,1,0,0,0,0,PK_DE_09
+trust,0,0,0,1,0,0,0,0,0,0,PK_DE_09
+barriers,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+methods of analysis,0,0,3,0,0,1,0,0,0,0,PK_DE_09
+methods of analysis > ai hypotheses,0,0,2,0,0,0,0,0,0,0,PK_DE_09
+methods of analysis > identification practice,0,0,4,0,4,2,0,0,0,0,PK_DE_09
+methods of analysis > omission,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+methods of analysis > taxons,0,0,0,0,0,0,0,0,0,1,PK_DE_09
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+methods of analysis > difficulties,0,0,0,2,0,0,0,0,0,0,PK_DE_09
+methods of analysis > discrepancies,0,0,0,0,0,1,0,0,0,0,PK_DE_09
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+methods of analysis > reflection time,0,0,0,2,0,0,0,0,0,0,PK_DE_09
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+positive reception,0,0,2,1,0,2,1,0,0,0,PK_DE_09
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+aesthetics > layout,0,0,1,0,0,0,0,0,0,0,PK_DE_09
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+affects > nervousness,0,0,0,2,0,2,3,0,0,0,PK_DE_09
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+affects > overwhelming,0,0,1,1,0,0,0,0,0,0,PK_DE_09
+affects > overwhelming > uncertainty,0,0,1,2,0,1,0,0,0,0,PK_DE_09
+affects > overwhelming > confusion,2,0,0,0,0,0,0,2,0,0,PK_DE_09
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+affects > surprise,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+knowledge and experience > knowledge and experience in fungi,0,0,4,1,4,2,0,0,0,0,PK_DE_09
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,1,0,0,PK_DE_09
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,1,0,PK_DE_09
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+evaluation criteria > credibility,0,0,0,0,1,0,0,0,0,0,PK_DE_09
+evaluation criteria > efficiency,0,0,3,2,0,2,0,0,0,0,PK_DE_09
+evaluation criteria > precision,0,0,1,0,0,0,0,0,0,0,PK_DE_09
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+evaluation criteria > appropriateness,0,0,0,1,2,0,0,0,0,0,PK_DE_09
+evaluation criteria > representativeness,0,0,3,1,4,2,0,0,0,0,PK_DE_09
+evaluation criteria > comprehensibility,0,0,2,1,0,0,0,0,2,0,PK_DE_09
+evaluation criteria > unreadability,2,0,1,2,0,1,0,1,1,5,PK_DE_09
+evaluation criteria > importance,0,0,4,0,2,0,0,0,0,0,PK_DE_09
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+data and features > lack of significant features,0,0,4,0,1,0,0,0,0,0,PK_DE_09
+data and features > feature significance,0,0,0,0,1,0,0,0,0,0,PK_DE_09
+data and features > lack of appropriate data,1,0,0,1,0,0,0,0,0,2,PK_DE_09
+data and features > understanding of annotations,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,0,PK_DE_09
+data and features > legend,2,0,0,1,0,1,0,0,0,3,PK_DE_09
+data and features > coordinate axes,0,0,0,0,0,0,0,1,1,1,PK_DE_09
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+expectations > biotope,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+expectations > dataset,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+expectations > user-centred approach,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+trust,0,0,0,0,1,0,0,0,0,0,PK_DE_10
+barriers,0,0,0,0,0,0,0,1,0,1,PK_DE_10
+barriers > concerns,0,0,0,0,1,0,0,0,0,0,PK_DE_10
+methods of analysis,0,0,0,1,0,2,0,0,0,0,PK_DE_10
+methods of analysis > ai hypotheses,0,2,0,0,1,1,0,0,0,0,PK_DE_10
+methods of analysis > identification practice,0,1,0,1,1,2,0,0,0,0,PK_DE_10
+methods of analysis > omission,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+methods of analysis > taxons,0,3,0,0,3,2,0,0,0,0,PK_DE_10
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+methods of analysis > difficulties,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+methods of analysis > thoroughness,0,0,0,0,0,2,0,0,0,0,PK_DE_10
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+associations,0,0,0,0,1,0,0,0,0,0,PK_DE_10
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+negative reception,0,0,0,0,0,0,0,0,0,1,PK_DE_10
+positive reception,0,0,1,3,1,2,2,0,0,0,PK_DE_10
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > interest,0,0,0,1,0,1,1,0,0,0,PK_DE_10
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > overwhelming > uncertainty,1,0,0,1,2,1,0,2,0,2,PK_DE_10
+affects > overwhelming > confusion,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+affects > surprise,0,1,0,0,0,0,0,0,0,1,PK_DE_10
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+knowledge and experience > knowledge and experience in fungi,0,1,1,0,1,2,0,0,0,0,PK_DE_10
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,1,0,0,PK_DE_10
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,1,0,0,0,0,0,PK_DE_10
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,1,0,1,PK_DE_10
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+evaluation criteria > efficiency,0,0,1,1,0,1,0,0,0,0,PK_DE_10
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,1,PK_DE_10
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+evaluation criteria > appropriateness,0,1,0,0,0,1,0,0,0,1,PK_DE_10
+evaluation criteria > representativeness,0,3,0,1,1,3,0,0,0,0,PK_DE_10
+evaluation criteria > comprehensibility,0,2,2,2,4,1,0,0,2,0,PK_DE_10
+evaluation criteria > unreadability,0,4,0,0,2,0,0,1,0,0,PK_DE_10
+evaluation criteria > importance,0,0,1,0,0,1,0,0,0,0,PK_DE_10
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+evaluation criteria > uselessness,0,0,0,0,0,1,0,0,0,0,PK_DE_10
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_10
+data and features > lack of significant features,0,0,0,0,0,1,0,0,0,0,PK_DE_10
+data and features > feature significance,0,0,1,0,0,0,0,0,0,0,PK_DE_10
+data and features > lack of appropriate data,0,0,0,0,0,0,0,1,0,1,PK_DE_10
+data and features > understanding of annotations,0,0,0,0,1,0,0,0,0,0,PK_DE_10
+data and features > understanding of data gaps,2,0,0,0,0,0,0,0,0,1,PK_DE_10
+data and features > legend,0,0,0,0,0,1,0,1,0,2,PK_DE_10
+data and features > coordinate axes,0,0,0,0,0,0,0,0,0,3,PK_DE_10
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+expectations > biotope,0,0,1,0,0,0,0,0,0,0,PK_DE_11
+expectations > dataset,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+expectations > user-centred approach,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+trust,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+barriers,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis > ai hypotheses,0,0,1,0,0,0,0,0,0,2,PK_DE_11
+methods of analysis > identification practice,0,0,1,0,2,0,0,0,0,0,PK_DE_11
+methods of analysis > omission,0,1,0,0,0,1,3,1,0,1,PK_DE_11
+methods of analysis > taxons,0,0,1,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis > difficulties,0,4,0,0,0,1,1,1,2,3,PK_DE_11
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+methods of analysis > reflection time,0,2,0,0,0,0,0,0,0,1,PK_DE_11
+methods of analysis > variability of decisions or evaluations,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+personification,0,1,0,0,0,0,0,0,0,2,PK_DE_11
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+positive reception,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+aesthetics,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+aesthetics > layout,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > overwhelming > uncertainty,0,0,1,0,0,0,0,0,0,0,PK_DE_11
+affects > overwhelming > confusion,0,0,0,0,0,0,1,0,0,0,PK_DE_11
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+affects > surprise,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+knowledge and experience > knowledge and experience in fungi,0,2,2,0,1,0,0,0,0,0,PK_DE_11
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > appropriateness,0,0,0,0,0,0,0,0,0,1,PK_DE_11
+evaluation criteria > representativeness,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+evaluation criteria > comprehensibility,0,0,2,1,0,1,0,0,0,1,PK_DE_11
+evaluation criteria > unreadability,0,1,0,0,0,0,1,1,0,0,PK_DE_11
+evaluation criteria > importance,0,0,2,0,3,0,0,0,0,0,PK_DE_11
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+evaluation criteria > uselessness,0,1,0,0,0,1,0,0,0,0,PK_DE_11
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_11
+data and features > lack of significant features,0,0,2,0,2,0,0,0,0,0,PK_DE_11
+data and features > feature significance,0,0,0,0,1,0,0,0,0,0,PK_DE_11
+data and features > lack of appropriate data,0,0,0,0,0,0,1,0,1,0,PK_DE_11
+data and features > understanding of annotations,0,3,0,0,0,0,0,0,1,0,PK_DE_11
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,3,PK_DE_11
+data and features > legend,0,1,0,0,0,0,0,0,0,1,PK_DE_11
+data and features > coordinate axes,0,0,0,0,0,0,0,0,2,0,PK_DE_11
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+expectations > biotope,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+expectations > dataset,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+expectations > macroscopic features,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+expectations > user-centred approach,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+trust,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+barriers,0,0,0,0,0,0,1,0,0,0,PK_DE_12
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > ai hypotheses,0,0,1,1,0,1,0,0,0,0,PK_DE_12
+methods of analysis > identification practice,0,0,1,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > omission,0,3,0,0,0,1,3,0,0,2,PK_DE_12
+methods of analysis > taxons,0,0,1,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > difficulties,0,4,0,0,1,1,1,0,3,3,PK_DE_12
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > thoroughness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > reflection time,0,1,0,0,0,0,0,0,0,0,PK_DE_12
+methods of analysis > variability of decisions or evaluations,0,1,0,0,0,0,0,0,0,0,PK_DE_12
+personification,0,1,0,1,0,1,0,0,0,0,PK_DE_12
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+associations > apps,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+negative reception,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+positive reception,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+aesthetics > layout,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > overwhelming > uncertainty,0,1,1,0,1,0,0,0,0,0,PK_DE_12
+affects > overwhelming > confusion,0,0,0,0,0,0,1,0,0,0,PK_DE_12
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+affects > surprise,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > descriptive statistics,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > lime,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+knowledge and experience > knowledge and experience in fungi,0,2,0,0,1,1,0,0,0,0,PK_DE_12
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+knowledge and experience > knowledge and experience in visualizations and analysis,0,0,0,0,1,0,0,0,0,0,PK_DE_12
+knowledge and experience > knowledge and experience in analysing human behaviour,0,0,2,0,0,0,0,0,0,0,PK_DE_12
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+recommendations > change of visualisation scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+recommendations > graphics,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > credibility,0,0,0,1,0,1,0,0,0,0,PK_DE_12
+evaluation criteria > efficiency,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > appropriateness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > representativeness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > comprehensibility,0,0,2,0,1,0,0,1,0,1,PK_DE_12
+evaluation criteria > unreadability,0,3,1,0,0,0,1,0,0,1,PK_DE_12
+evaluation criteria > importance,0,0,1,0,2,1,0,0,0,0,PK_DE_12
+evaluation criteria > accuracy,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+evaluation criteria > uselessness,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_12
+data and features > lack of significant features,0,0,1,0,2,0,0,0,0,0,PK_DE_12
+data and features > feature significance,0,0,0,0,0,1,0,0,0,0,PK_DE_12
+data and features > lack of appropriate data,0,0,1,0,0,0,1,0,0,0,PK_DE_12
+data and features > understanding of annotations,0,4,0,0,0,0,0,0,2,2,PK_DE_12
+data and features > understanding of data gaps,0,0,0,0,0,0,0,0,0,2,PK_DE_12
+data and features > legend,0,2,0,0,0,0,0,0,0,0,PK_DE_12
+data and features > coordinate axes,0,0,0,0,0,0,0,0,1,0,PK_DE_12
+expectations,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+expectations > biotope,0,0,0,0,0,0,0,0,0,1,PK_DE_13
+expectations > dataset,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+expectations > macroscopic features,0,2,0,0,0,0,0,0,0,0,PK_DE_13
+expectations > organoleptic features,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+expectations > user-centred approach,0,0,1,0,0,0,0,0,0,0,PK_DE_13
+trust,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+barriers,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+barriers > concerns,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis,0,0,2,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > ai hypotheses,0,2,3,1,2,0,0,0,0,0,PK_DE_13
+methods of analysis > identification practice,0,1,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > omission,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > taxons,0,7,2,1,0,0,0,0,0,1,PK_DE_13
+methods of analysis > example analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > difficulties,0,1,1,0,0,0,0,0,1,0,PK_DE_13
+methods of analysis > discrepancies,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > thoroughness,1,1,1,2,1,0,1,0,0,0,PK_DE_13
+methods of analysis > reflection time,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+methods of analysis > variability of decisions or evaluations,1,0,0,1,0,0,0,0,0,0,PK_DE_13
+personification,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+metaphorization,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+associations,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+associations > apps,1,1,0,1,1,0,0,0,0,0,PK_DE_13
+associations > fungi guides,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+associations > image of a toadstool,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+associations > taxonomic keys,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+negative reception,1,0,0,0,0,0,0,0,0,0,PK_DE_13
+positive reception,0,1,1,1,0,0,0,0,0,0,PK_DE_13
+aesthetics,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+aesthetics > font size,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+aesthetics > layout,0,0,2,0,0,0,0,0,0,0,PK_DE_13
+aesthetics > colour scheme,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > nervousness,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > interest,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > reluctance,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > overwhelming,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > overwhelming > uncertainty,0,3,4,3,6,2,0,0,1,1,PK_DE_13
+affects > overwhelming > confusion,1,0,0,1,0,0,0,0,0,0,PK_DE_13
+affects > overwhelming > tiredness,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+affects > surprise,1,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > descriptive statistics,0,0,0,1,0,0,0,0,0,0,PK_DE_13
+slides > counterfactual analysis,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > anchor,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > lime,1,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > waterfall,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > bee swarm,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > text slides,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > box plots,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > histograms,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+slides > distribution of features,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+knowledge and experience,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+knowledge and experience > knowledge and experience in fungi,2,4,2,3,2,0,0,0,0,1,PK_DE_13
+knowledge and experience > knowledge and experience in fungi > names and species of fungi,0,1,3,1,0,0,0,0,0,0,PK_DE_13
+knowledge and experience > knowledge and experience in visualizations and analysis,0,1,1,1,0,0,0,0,0,1,PK_DE_13
+knowledge and experience > knowledge and experience in analysing human behaviour,1,0,1,0,0,0,0,0,0,0,PK_DE_13
+recommendations,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+recommendations > change of visualisation scheme,1,0,1,0,0,1,0,0,0,0,PK_DE_13
+recommendations > supplementary materials,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+recommendations > graphics,1,3,0,1,1,0,0,0,0,2,PK_DE_13
+evaluation criteria,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+evaluation criteria > credibility,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+evaluation criteria > efficiency,0,2,1,2,5,0,0,0,0,0,PK_DE_13
+evaluation criteria > precision,0,0,0,0,0,0,0,0,0,1,PK_DE_13
+evaluation criteria > similarity,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+evaluation criteria > appropriateness,2,2,0,0,0,0,0,0,0,1,PK_DE_13
+evaluation criteria > representativeness,2,0,0,0,0,0,0,0,0,0,PK_DE_13
+evaluation criteria > comprehensibility,0,0,1,0,0,0,3,0,0,0,PK_DE_13
+evaluation criteria > unreadability,0,0,1,1,7,5,0,1,0,1,PK_DE_13
+evaluation criteria > importance,0,1,0,0,2,0,0,0,0,1,PK_DE_13
+evaluation criteria > accuracy,0,0,0,1,0,0,0,0,0,0,PK_DE_13
+evaluation criteria > uselessness,0,1,0,0,0,0,0,0,0,0,PK_DE_13
+data and features,0,0,0,0,0,0,0,0,0,0,PK_DE_13
+data and features > lack of significant features,0,1,0,0,0,0,0,0,0,0,PK_DE_13
+data and features > feature significance,0,0,0,0,2,0,0,0,0,1,PK_DE_13
+data and features > lack of appropriate data,0,2,0,0,2,1,0,1,1,0,PK_DE_13
+data and features > understanding of annotations,0,0,0,0,2,1,0,0,0,0,PK_DE_13
+data and features > understanding of data gaps,1,0,0,0,0,0,0,0,0,0,PK_DE_13
+data and features > legend,0,2,2,2,0,3,0,1,0,0,PK_DE_13
+data and features > coordinate axes,0,0,0,0,0,0,0,1,1,3,PK_DE_13
