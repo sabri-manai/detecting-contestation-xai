@@ -1,0 +1,19 @@
+{
+  "coded_file": "feasibility_review_sample_claude_translated_CODING.xlsx",
+  "n_episodes": 88,
+  "n_yes": 47,
+  "n_no": 41,
+  "lexical_filter_precision": 0.534,
+  "groups_with_contestation": "3/3",
+  "formats_with_contestation": "5/5",
+  "codeable_candidates_corpus": 393,
+  "projected_contestation_corpus": 210,
+  "dims_populated": {
+    "target": 6,
+    "interaction_act": 7,
+    "grounds": 8,
+    "expected_response": 7
+  },
+  "verdict_pass": true,
+  "verdict": "KEEP contestation as the central construct"
+}

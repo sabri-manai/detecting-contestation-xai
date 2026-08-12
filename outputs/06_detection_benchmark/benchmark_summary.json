@@ -1,0 +1,40 @@
+{
+  "task": "presence detection (contestation yes/no) on lexically flagged candidates",
+  "gold": "feasibility_review_sample_GOLD.csv",
+  "n_episodes": 88,
+  "n_positive": 49,
+  "cv": "GroupKFold(5) by participant",
+  "input": "Polish target utterance (text_pl)",
+  "results": [
+    {
+      "model": "Majority class",
+      "macro_F1": 0.294,
+      "macro_F1_std": 0.075,
+      "accuracy": 0.43
+    },
+    {
+      "model": "Lexical rule (challenge>=2)",
+      "macro_F1": 0.476,
+      "macro_F1_std": 0.0,
+      "accuracy": 0.511
+    },
+    {
+      "model": "TF-IDF + logistic",
+      "macro_F1": 0.478,
+      "macro_F1_std": 0.035,
+      "accuracy": 0.523
+    },
+    {
+      "model": "XLM-R (multi) + logistic",
+      "macro_F1": 0.542,
+      "macro_F1_std": 0.072,
+      "accuracy": 0.592
+    },
+    {
+      "model": "HerBERT (PL) + logistic",
+      "macro_F1": 0.567,
+      "macro_F1_std": 0.157,
+      "accuracy": 0.59
+    }
+  ]
+}

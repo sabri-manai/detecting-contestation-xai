@@ -1,0 +1,6 @@
+model,macro_F1,macro_F1_std,accuracy
+Majority class,0.294,0.075,0.43
+Lexical rule (challenge>=2),0.476,0.0,0.511
+TF-IDF + logistic,0.478,0.035,0.523
+XLM-R (multi) + logistic,0.542,0.072,0.592
+HerBERT (PL) + logistic,0.567,0.157,0.59

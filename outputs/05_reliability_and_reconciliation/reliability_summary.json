@@ -1,0 +1,27 @@
+{
+  "first_pass_agreement": {
+    "n_double_coded": 43,
+    "raw_agreement": 0.651,
+    "cohens_kappa": 0.298
+  },
+  "adjudicated": {
+    "yes": 12,
+    "no": 3,
+    "matched_coder1": 9,
+    "matched_coder2": 6
+  },
+  "disagreement_sources": {
+    "implicit / hidden contestation": 10,
+    "coder revised on review": 3,
+    "unit rule (context vs target)": 1,
+    "speaker/interviewer artifact": 1
+  },
+  "reconciled_gold": {
+    "n": 88,
+    "contestation": 49,
+    "precision": 0.557,
+    "groups": "3/3",
+    "formats": "5/5"
+  },
+  "verdict": "KEEP contestation as the central construct"
+}

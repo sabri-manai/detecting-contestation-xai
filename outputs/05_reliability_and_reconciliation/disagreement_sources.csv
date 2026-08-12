@@ -1,0 +1,16 @@
+__utt_id,speaker,C1_is_contestation,C2_is_contestation,ADJUDICATED_is_contestation,source,resolution_notes
+PK_DE_04:162,Participant,yes,no,no,unit rule (context vs target),C1 was based on context not on text 
+PK_DE_01:190,Interviewer,no,yes,no,speaker/interviewer artifact,C2 was basing more on interviewer
+PK_DE_03:64,Participant,yes,no,yes,implicit / hidden contestation,Context gave more info about contestation
+PK_DE_01:121,Participant,yes,no,yes,implicit / hidden contestation,contestation was hidden
+MZ_SSH_02:273,Participant,no,yes,yes,coder revised on review,After reviewing I changed my mind
+DR_SSH_02:283,Participant,yes,no,no,implicit / hidden contestation,contestation is not obvious
+MW_SSH_05:122,Participant,no,yes,yes,coder revised on review,After reviewing I changed my mind
+MK_SSH_02:117,Participant,yes,no,yes,implicit / hidden contestation,Context gave more info about contestation
+MK_IT_03:213,Participant,yes,no,yes,implicit / hidden contestation,contestation is not obvious
+PK_DE_09:53,Participant,no,yes,yes,coder revised on review,After reviewing I changed my mind
+DR_SSH_06:270,Participant,yes,no,yes,implicit / hidden contestation,it didn't make much sense at first
+MW_IT_02:55,Participant,yes,no,yes,implicit / hidden contestation,missinterpreted at first
+MZ_SSH_03:543,Participant,yes,no,yes,implicit / hidden contestation,missing data
+PK_DE_04:132,Participant,no,yes,yes,implicit / hidden contestation,didn't have much context
+PK_DE_08:72,Participant,yes,no,yes,implicit / hidden contestation,not enough context 
