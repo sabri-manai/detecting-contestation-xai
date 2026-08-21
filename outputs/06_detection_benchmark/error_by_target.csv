@@ -1,0 +1,7 @@
+target,mean_false_negative_rate,n_episodes
+evidence,0.375,8
+explanation representation,0.125,16
+input data,0.286,7
+prediction,0.2,3
+reasoning,0.5,6
+system competence,0.75,4

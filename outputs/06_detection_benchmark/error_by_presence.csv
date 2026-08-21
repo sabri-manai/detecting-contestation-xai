@@ -1,0 +1,4 @@
+presence,mean_false_negative_rate,n_episodes
+ambiguous,0.446,13
+explicit,0.275,16
+implicit,0.227,15

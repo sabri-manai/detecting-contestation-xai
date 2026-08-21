@@ -1,0 +1,4 @@
+participant_group,evidence,explanation representation,input data,prediction,reasoning,system competence
+DE,3,5,2,2,3,2
+IT,3,5,2,0,1,0
+SSH,2,6,3,1,2,2

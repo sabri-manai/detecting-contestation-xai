@@ -9,3 +9,6 @@ __pycache__/
 
 # Model + translation caches
 .cache/
+
+# OS junk
+.DS_Store

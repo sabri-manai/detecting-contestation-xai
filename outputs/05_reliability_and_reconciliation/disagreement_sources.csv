@@ -1,6 +1,5 @@
 __utt_id,speaker,C1_is_contestation,C2_is_contestation,ADJUDICATED_is_contestation,source,resolution_notes
 PK_DE_04:162,Participant,yes,no,no,unit rule (context vs target),C1 was based on context not on text 
-PK_DE_01:190,Interviewer,no,yes,no,speaker/interviewer artifact,C2 was basing more on interviewer
 PK_DE_03:64,Participant,yes,no,yes,implicit / hidden contestation,Context gave more info about contestation
 PK_DE_01:121,Participant,yes,no,yes,implicit / hidden contestation,contestation was hidden
 MZ_SSH_02:273,Participant,no,yes,yes,coder revised on review,After reviewing I changed my mind

@@ -1,6 +1,9 @@
-model,macro_F1,macro_F1_std,accuracy
-Majority class,0.294,0.075,0.43
-Lexical rule (challenge>=2),0.476,0.0,0.511
-TF-IDF + logistic,0.478,0.035,0.523
-XLM-R (multi) + logistic,0.542,0.072,0.592
-HerBERT (PL) + logistic,0.567,0.157,0.59
+model,input,macro_F1,macro_F1_std,accuracy,n_repeats,mean_threshold
+Majority class,-,0.366,0.001,0.579,5,
+Lexical rule (challenge>=2),target line,0.481,0.0,0.513,1,
+mpnet-paraphrase (multi) + logistic,context + target + lexical feats,0.518,0.015,0.541,5,0.506
+HerBERT (PL) + logistic,context + target + lexical feats,0.554,0.045,0.593,5,0.552
+TF-IDF + logistic,context + target,0.562,0.027,0.594,5,0.5
+multilingual-E5-base + logistic,context + target + lexical feats,0.566,0.02,0.582,5,0.48
+XLM-R (multi) + logistic,context + target + lexical feats,0.572,0.02,0.603,5,0.522
+Ensemble: TF-IDF + XLM-R (avg prob),context + target (+lexical feats on the XLM-R half),0.594,0.023,0.62,5,0.558
